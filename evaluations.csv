@@ -1,74 +1,74 @@
 ID,Name,Impact,Feasibility,Scalability,Overall
-P1 ,P1 - ICPC Team Builder,3,4,3,3.33
+P1 ,P1 - ICPC Team Builder,3,4,2,3
 P2 ,P2 - Optical Tracking Pipeline,4,3,4,3.67
-P3 ,P3 - What is hidden in the metabolomics of the tear film of the eye_,4,3,4,3.67
+P3 ,P3 - What is hidden in the metabolomics of the tear film of the eye_,4,3,3,3.33
 P4 ,P4 - Clinical Skills Communication Assessment Tool,3,4,3,3.33
-P5 ,P5 - Machine learning-based Estimation of Power Systems Strength,4,3,4,3.67
-P6 ,P6 - Development of a Web Interface for Real-Time Control of Baxter Robot with new perception hardware,4,3,4,3.67
-P7 ,P7 - Optimal Control in Epidemiology via Neural Ordinary Differential Equation Control (NODEC),4,3,4,3.67
-P8 ,P8 - LLM for recommending services on AskIzzy,4,3,4,3.67
-P9 ,P9 - UNSW Finance Hot Desking Application,3,4,4,3.67
-P10,P10 - Program for Learning Interactively through Virtual Case Scenarios,4,3,4,3.67
-P11,P11 - Convert a VR supermarket game in Unreal to run standalone,3,4,3,3.33
-P12,P12 - Solving Classic Transportation Problem in New AI Approach (ML & MDCVRPTW),4,3,4,3.67
-P13,P13 - Rostering using Large Language Models (LLM),4,3,4,3.67
-P14,P14 - Real Time Retinal Vessels Segmenter,4,3,4,3.67
+P5 ,P5 - Machine learning-based Estimation of Power Systems Strength,4,2,4,3.33
+P6 ,P6 - Development of a Web Interface for Real-Time Control of Baxter Robot with new perception hardware,3,2,3,2.67
+P7 ,P7 - Optimal Control in Epidemiology via Neural Ordinary Differential Equation Control (NODEC),4,2,3,3
+P8 ,P8 - LLM for recommending services on AskIzzy,3,3,4,3.33
+P9 ,P9 - UNSW Finance Hot Desking Application,2,3,3,2.67
+P10,P10 - Program for Learning Interactively through Virtual Case Scenarios,3,4,3,3.33
+P11,P11 - Convert a VR supermarket game in Unreal to run standalone,3,3,3,3
+P12,P12 - Solving Classic Transportation Problem in New AI Approach (ML & MDCVRPTW),3,2,3,2.67
+P13,P13 - Rostering using Large Language Models (LLM),3,2,3,2.67
+P14,P14 - Real Time Retinal Vessels Segmenter,4,3,3,3.33
 P15,P15 - Verifiable Credentials: The Future of Digital Identity in Action (A Demo Application),4,3,4,3.67
-P16,P16 - Region-attention based medical image segmentation,4,3,4,3.67
-P17,P17 - Finding extrapolating recommending and map connections in social media data sets,3,3,4,3.33
+P16,P16 - Region-attention based medical image segmentation,4,2,3,3
+P17,P17 - Finding extrapolating recommending and map connections in social media data sets,4,2,3,3
 P18,P18 - Business Process for SMEs Utilizing E-invoicing APIs,3,4,4,3.67
 P19,P19 - A web-based digital twin platform for sustainability analysis,3,4,4,3.67
 P20,P20 - Building Time Series Analysis,3,3,4,3.33
-P21,P21 - Building Time Series Visualization,3,4,4,3.67
+P21,P21 - Building Time Series Visualization,3,3,4,3.33
 P22,P22 - Prototyping Design Solutions,3,4,3,3.33
-P23,P23 - Predicting the freshness and best-before of foods using AI-based analysis of color and shape change,3,3,4,3.33
+P23,P23 - Predicting the freshness and best-before of foods using AI-based analysis of color and shape change,3,3,3,3
 P24,P24 - White cane training simulator,4,3,3,3.33
-P25,P25 - Exploring Diagnostic Criteria of Binocular Vision Anomalies through Data Simulations,3,3,4,3.33
-P26,P26 - Building Question-Answering with Large Language Models,4,3,4,3.67
-P27,P27 - Custom intelligent control for a Pudu Bellabot Food Delivery Robot,3,3,2,2.67
+P25,P25 - Exploring Diagnostic Criteria of Binocular Vision Anomalies through Data Simulations,3,3,3,3
+P26,P26 - Building Question-Answering with Large Language Models,3,3,4,3.33
+P27,P27 - Custom intelligent control for a Pudu Bellabot Food Delivery Robot,4,3,3,3.33
 P28,P28 - Development of Online Adaptive Tutorials for Chemistry Teaching Labs,4,3,4,3.67
-P29,P29 - HDR Topics document management system,2,3,3,2.67
-P30,P30 - Royal Hospital for Women Newborn Care Centre Neonatal Milk Checker,4,3,4,3.67
-P31,P31 - Modern Team Evaluation System for Courses with Group Assessments,3,4,4,3.67
+P29,P29 - HDR Topics document management system,3,4,3,3.33
+P30,P30 - Royal Hospital for Women Newborn Care Centre Neonatal Milk Checker,4,3,3,3.33
+P31,P31 - Modern Team Evaluation System for Courses with Group Assessments,3,4,3,3.33
 P32,P32 - Data acquisition software for next-generation electrophysiology and BCI systems,4,3,4,3.67
-P33,P33 - Understanding the Privacy Advantages of Backdoor Attacks on Deep Neural Networks,3,3,3,3
+P33,P33 - Understanding the Privacy Advantages of Backdoor Attacks on Deep Neural Networks,2,3,2,2.33
 P34,P34 - Career Pathway Mapping Tool for Energy Transition: User Interface and Recommendation System,4,3,4,3.67
-P35,P35 - Career Pathway Mapping Tool for Energy Transition: Database Development and Automation,3,3,4,3.33
-P36,P36 - igive: an update to CSE after 50 years,3,4,3,3.33
-P37,P37 - Robocup Home: Creating synthetic image datasets from 3D scanned objects,4,3,4,3.67
+P35,P35 - Career Pathway Mapping Tool for Energy Transition: Database Development and Automation,4,3,4,3.67
+P36,P36 - igive: an update to CSE after 50 years,3,3,3,3
+P37,P37 - Robocup Home: Creating synthetic image datasets from 3D scanned objects,4,3,3,3.33
 P38,P38 - EcoM Platform for Sustainable Investment,4,3,4,3.67
 P39,P39 - Sustainable Investment Data Modeling Microservice for Clarity AI ESG Risk Raw Data on Corporations,4,3,4,3.67
 P40,P40 - Converting datasets into knowledge graphs,3,3,4,3.33
 P41,P41 - From Rubble to Renewal: Tracking CO2 Cuts in Demolition Waste,3,4,3,3.33
-P42,P42 - EyeNutrition: A Dietary Tracking App for Optometry Patients to Improve Eye Health,4,3,4,3.67
-P43,P43 - Multimodal Retrieval-Augmented Generation (RAG) System for Traffic Engineering,4,2,4,3.33
-P44,P44 - Where are your feet?,4,3,4,3.67
-P45,P45 - AI-driven medical research networks: connecting experts for collaborative discovery,4,3,4,3.67
-P46,P46 - Web Platform for Project Contests,3,4,4,3.67
-P47,P47 - Web Platform for Connecting Professionals and Projects,3,3,3,3
-P48,P48 - Helping 10 million people with Parkinson's disease walk to the beat of music,4,4,4,4
-P49,P49 - Emotion Recognition Software,3,3,4,3.33
-P50,P50 - A Platform for Melody Mentoring,3,3,4,3.33
+P42,P42 - EyeNutrition: A Dietary Tracking App for Optometry Patients to Improve Eye Health,3,3,3,3
+P43,P43 - Multimodal Retrieval-Augmented Generation (RAG) System for Traffic Engineering,4,3,4,3.67
+P44,P44 - Where are your feet?,4,3,3,3.33
+P45,P45 - AI-driven medical research networks: connecting experts for collaborative discovery,3,2,4,3
+P46,P46 - Web Platform for Project Contests,3,3,3,3
+P47,P47 - Web Platform for Connecting Professionals and Projects,3,4,3,3.33
+P48,P48 - Helping 10 million people with Parkinson's disease walk to the beat of music,4,3,4,3.67
+P49,P49 - Emotion Recognition Software,3,2,3,2.67
+P50,P50 - A Platform for Melody Mentoring,3,2,3,2.67
 P51,P51 - Event Aggregation and Management Web Platform,3,3,4,3.33
-P52,P52 - Course Insights and Skill Alignment Platform,3,3,4,3.33
-P53,P53 - Programmatic Assessment Manager,3,4,3,3.33
-P54,P54 - Low-quality face recognition in wild API,4,3,4,3.67
-P55,P55 - Developing outstanding software interfaces and processes in medical research,3,4,3,3.33
-P56,P56 - AI-enhanced Moodle LMS Plugin for managing Entrustable Professional Activity (EPA) assessments in Faculty of Medicine and Health,4,2,4,3.33
-P57,P57 - Development of quantitative readout for traumatic brain injury (TBI) point of care (POC) device,4,3,4,3.67
-P58,P58 - Virtual Specialist Veterinary Service Platform,4,3,4,3.67
-P59,P59 - IoT-based fleet management and telematics,4,3,4,3.67
-P60,P60 - Communication Accessibility Web App Prototype - MyCommsPro,4,3,4,3.67
-P61,P61 - Edpay App,3,3,4,3.33
-P62,P62 - FunWattle: AI-powered digital reinforcement of kids' speech skills,4,3,4,3.67
+P52,P52 - Course Insights and Skill Alignment Platform,4,2,3,3
+P53,P53 - Programmatic Assessment Manager,3,4,4,3.67
+P54,P54 - Low-quality face recognition in wild API,3,2,4,3
+P55,P55 - Developing outstanding software interfaces and processes in medical research,3,3,4,3.33
+P56,P56 - AI-enhanced Moodle LMS Plugin for managing Entrustable Professional Activity (EPA) assessments in Faculty of Medicine and Health,4,2,3,3
+P57,P57 - Development of quantitative readout for traumatic brain injury (TBI) point of care (POC) device,5,3,4,4
+P58,P58 - Virtual Specialist Veterinary Service Platform,4,2,3,3
+P59,P59 - IoT-based fleet management and telematics,4,3,3,3.33
+P60,P60 - Communication Accessibility Web App Prototype - MyCommsPro,4,4,4,4
+P61,P61 - Edpay App,4,3,4,3.67
+P62,P62 - FunWattle: AI-powered digital reinforcement of kids' speech skills,3,2,4,3
 P63,P63 - Enabling user-friendly access to an ML disease prediction tool,3,4,4,3.67
-P64,P64 - Quick Assist app prototype,4,3,4,3.67
+P64,P64 - Quick Assist app prototype,4,3,3,3.33
 P65,P65 - Changing Life Keep Your Balance: multilingual mental health literacy app,4,3,4,3.67
-P66,P66 - AI for Language Learning,4,3,4,3.67
+P66,P66 - AI for Language Learning,3,3,3,3
 P67,P67 - Stress tracking app,3,3,4,3.33
-P68,P68 - Transition Dashboard - Custom AI,3,3,4,3.33
-P70,P70 - Development of a Windows Client Dashboard Program for Real-time Monitoring of General Practitioners Daily Workload Statistics and Basic Compliance,4,3,3,3.33
-P71,P71 - Providing Web-Based Access for General Practitioners to Manage Appointments in Best Practice Medical Software,3,3,4,3.33
-P72,P72 - Crowd-Sourced Online Data Annotation Platform,4,3,4,3.67
-P73,P73 - Analytics of Web Application,3,3,4,3.33
-P76,P76 - Web Tool for Evaluating Software Reliability,3,3,4,3.33
+P68,P68 - Transition Dashboard - Custom AI,3,2,3,2.67
+P70,P70 - Development of a Windows Client Dashboard Program for Real-time Monitoring of General Practitioners Daily Workload Statistics and Basic Compliance,3,4,3,3.33
+P71,P71 - Providing Web-Based Access for General Practitioners to Manage Appointments in Best Practice Medical Software,3,4,4,3.67
+P72,P72 - Crowd-Sourced Online Data Annotation Platform,3,3,4,3.33
+P73,P73 - Analytics of Web Application,3,3,3,3
+P76,P76 - Web Tool for Evaluating Software Reliability,3,2,3,2.67

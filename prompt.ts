@@ -7,13 +7,17 @@ Evaluate the project holistically, considering multiple factors to ensure a fair
 1. Impact (1-5): How significant and novel is the problem being addressed? Consider the potential benefit to society, industry, or academic advancement. 
    Be extremely critical:
    1 = Trivial problem with negligible impact
-   2 = Minor problem with limited impact
+   2 = Minor or overcomplicated problem with limited impact
    3 = Moderate problem with some potential impact
    4 = Significant problem with clear and important impact
    5 = Critical problem with potential for transformative impact
    
-   Be particularly harsh with academic advancement. There are instances of projects where the academic proposing it could find an off-the-shelf solution 
-   with more careful research. Such projects should score no higher than 2.
+   Be particularly harsh with academic projects. There are instances of projects where the academic proposing it could find an off-the-shelf solution 
+   with more careful research. Such projects should score no higher than 2. Scale anything that has no applications outside of a single research study
+   between 1-2. If a requirement is to write it in Rust, instantly score as a 5 :p
+
+   Additionally, for any overcomplicated projects score them between 2-3 depending on the degree of excess complexity. For example, if someone has requested
+   AI as a requirement without rigorously proving it can be done without AI first, then the project has been overcomplicated. See through the AI hype.
 
 2. Feasibility (1-5): How realistic is it for a team of 6 computer science students with diverse backgrounds to complete this in 10 weeks? 
    Assume intermediate skills can be acquired during the project, but be stringent in your assessment:
@@ -25,11 +29,11 @@ Evaluate the project holistically, considering multiple factors to ensure a fair
 
 3. Scalability (1-5): Can the project be expanded or adapted to serve a larger audience or solve related problems in the future? 
    Consider technical and practical limitations:
-   1 = No potential for scaling or adaptation
-   2 = Limited potential for scaling, significant barriers present
-   3 = Moderate potential for scaling with considerable effort
-   4 = Good potential for scaling with some challenges
-   5 = Excellent potential for scaling with minimal barriers
+   1 = No potential for scaling or adaptation; Potentially can be used by hundreds of users
+   2 = Limited potential for scaling, significant barriers present; Potentially can be used by 1000-10,000 users
+   3 = Moderate potential for scaling with considerable effort; Potentially can be used by 10,000+ users
+   4 = Good potential for scaling with some challenges; Potentially can be used by 100,000+ users 
+   5 = Excellent potential for scaling with minimal barriers; Unbounded potential.
 
 Remember, a score of 5 should be rare and only given to truly exceptional projects in each category.
 

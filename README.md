@@ -1,250 +1,247 @@
 P1 - ICPC Team Builder
 Impact Score: 3
 Feasibility Score: 4
-Scalability Score: 3
+Scalability Score: 2
 
 Strengths:
-- The project addresses a clear and specific problem within the competitive programming community in the South Pacific region. By automating team formation, it potentially increases participation and inclusivity.
-- The project is well-defined with a manageable scope, making it suitable for completion within the 10-week timeframe by a group of six students.
+- Addresses a real and identifiable problem in the competitive programming community in the South Pacific, which can encourage greater participation in ICPC.
+- The project is grounded in practical software development skills, such as frontend development and secure data storage, offering substantial learning opportunities for students.
 
 Weaknesses:
-- The academic impact is relatively low as similar systems likely exist (or could be created with existing tools) for other contexts, indicating a lack of novelty in the approach.
-- Scalability could be limited by the specific nature of the problem and regional focus. Expansion to other regions or contexts might require significant adaptations.
+- The impact is limited predominantly to the academic and ICPC competitive programming context, with little broader societal or industry application.
+- The scalability is constrained by the niche focus on ICPC team formation, serving a relatively small user base with limited potential for broader expansion or adaptation.
 
 Suggestions for Improvement:
-- Conduct a thorough review of existing solutions to ensure that the proposed project offers a novel approach or significant improvements over available tools. This could potentially include integrating machine learning for better matching based on multiple criteria.
-- Consider adding features that would increase the project’s scalability and appeal, such as the ability to handle larger datasets, support for multiple languages, or the possibility for other competitive programming regions to adapt the system for their needs. This can make the project more adaptable to various contexts and provide greater long-term value.
+- Broaden the scope of the project to include potential applications in other team-based competitive or academic activities beyond ICPC, which could enhance its impact and scalability.
+- Incorporate rigorous user experience (UX) testing and feedback from initial users to ensure a polished final product, which could motivate further adoption and iterative improvements.
+
 
 P2 - Optical Tracking Pipeline
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths: 
-- The project addresses a significant issue in space situational awareness (SSA), which has clear and important implications for space traffic management and safety.
-- The integration of multiple software modules into a cohesive pipeline can significantly improve the accuracy and automation of tracking resident space objects (RSOs).
+Strengths:
+- The project addresses a significant and urgent problem in space situational awareness, which has clear benefits for space traffic management and overall safety in orbit.
+- The use of Python and existing modules increases the feasibility and focus on integration rather than developing all parts from scratch, leveraging current advancements in software.
 
-Weaknesses: 
-- The feasibility of this project is moderate; integrating and ensuring the seamless operation of various modules within a 10-week timeframe could be particularly challenging for students, even with intermediate skills.
-- The project relies heavily on existing software modules, which limits the potential for academic advancement since the primary task is integration rather than novel development.
+Weaknesses:
+- The project may be overly reliant on existing modules, which could limit the students' ability to innovate or deeply understand the complexities involved.
+- Given the comprehensive nature of integrating various components, there is a risk that the project may face significant challenges in fully validating and testing the system within the 10-week timeframe.
 
 Suggestions for Improvement:
-- Ensure that there is a detailed project management plan, breaking down tasks and setting clear milestones to manage time effectively. This would improve the feasibility scoring.
-- Incorporate elements of novel software development or research to increase the academic contribution of the project. For instance, students could explore optimization techniques or machine learning models to enhance the existing modules.
-- Offer additional training in Python programming and software engineering practices at the beginning of the project to ensure all team members are equipped with the necessary skills.
-- Include a plan for scalability in the project proposal. This should outline how the system could be adapted to handle a higher volume of data or be extended to track different types of objects in the future.
+- Include a phase in the project plan for a detailed initial assessment of the existing software modules to identify potential gaps or areas requiring more extensive modifications.
+- Increase the emphasis on documentation and code maintainability to ensure that future enhancements or scaling efforts can be managed effectively.
 
 P3 - What is hidden in the metabolomics of the tear film of the eye_
 Impact Score: 4
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
-Strengths:
-- The project addresses a significant and novel problem in the field of bioinformatics and biomedical research, particularly focusing on the metabolomics of the tear film, which could lead to important discoveries in understanding eye diseases and health.
-- The potential for this project to yield preliminary data that could form the basis for clinical hypotheses and further research, including in vitro and animal model testing, is high.
+Strengths: 
+- Addresses significant problem areas in ophthalmology, including immune response, microbiome, external threats, and aging effects on the eye.
+- Utilizes advanced and contemporary techniques such as mass spectrometry data analysis, which can potentially lead to novel discoveries.
 
-Weaknesses:
-- The scope of the project is broad, encompassing multiple complex areas such as the immune system, microbiome, environmental effects, and aging, which might be overly ambitious for a 10-week timeframe for undergraduate students.
-- The project requires specialized knowledge in bioinformatics, algorithms, and artificial intelligence, which may pose a steep learning curve and potential bottleneck for students without prior experience in these domains.
+Weaknesses: 
+- The project leans heavily on the use of AI without clear justification that simpler methodologies have been evaluated and found insufficient.
+- The scope may be overly ambitious for a 10-week project, especially for intermediate-level students, raising concerns about the feasibility of delivering meaningful outcomes within the timeframe.
 
 Suggestions for Improvement:
-- Narrow the focus of the project to one or two specific goals, such as analyzing the effects of microplastics or investigating the microbial composition of the eyes' microbiome. This will make the project more manageable and likely to yield more actionable results.
-- Ensure adequate supervisory support and mentoring throughout the project. Arrange regular check-ins with the course convenor or experts in bioinformatics to ensure students are progressing and not getting stuck on complex issues.
+- Narrow down the project goals to focus on one or two specific areas (e.g., the immune system or external environmental effects) to make the tasks more manageable and achievable within the 10-week period.
+- Provide a more detailed project plan, possibly breaking down the tasks and ensuring that data preprocessing, analysis, and hypothesis formulation are realistically timed and considered. This approach would help balance AI application, ensuring it is justified and feasible.
 
 P4 - Clinical Skills Communication Assessment Tool
 Impact Score: 3
-
 Feasibility Score: 4
-
 Scalability Score: 3
 
 Strengths:
-- The project addresses a concrete need in medical education, specifically the assessment of communication skills during a physical examination. This can potentially improve the quality of medical training and patient care.
-- The project is well-defined with clear deliverables and structured requirements, making it feasible within the given timeframe for a team of computer science students.
+- Addresses a moderate gap in medical education by providing a platform for assessing communication during physical examinations, which can help improve the quality of medical training.
+- Clear and achievable goals within a 10-week timeframe, especially with the use of Microsoft Forms and basic integration tasks.
 
 Weaknesses:
-- The academic impact is somewhat limited. The problem, while relevant, is not groundbreaking and there are likely off-the-shelf solutions for form creation and basic analytics that could serve a similar purpose.
-- The proposal for AI integration to analyze written feedback is an overreach given the 10-week timeframe and the skill level of standard undergraduate students. Realistically, implementing this feature would require specialized AI knowledge and more extensive testing.
+- The project’s impact is somewhat limited to the specific context of medical student evaluations at UNSW, which confines its broader applicability.
+- The inclusion of AI for analyzing written feedback seems overcomplicated and may not be necessary to achieve the project’s primary objectives.
 
 Suggestions for Improvement:
-- Focus on ensuring the core functionality of the platform—data entry, form submission, and email notifications—works seamlessly before attempting the AI integration. Prioritize user experience, especially given the time-pressured environment for assessors.
-- Consider leveraging existing platforms or frameworks (e.g., Google Forms + Google Sheets) that can offer similar functionality with less development effort. This would allow the team to focus more on customization and user interface design, adding value where off-the-shelf solutions may fall short.
-- Simplify the initial scope by concentrating solely on the mobile or tablet interface first before adding cloud database analytics. Once the basic functionalities are robust, scaling up to include more complex analytics and broader data storage options could be a Phase II post-project.
+- Instead of focusing on AI capabilities, which might be unnecessary and divert attention from core functionalities, ensure the basic platform is robust, user-friendly, and performs well in a time-pressured environment.
+- Consider expanding the scope slightly to allow for customizable criteria within the assessment tool, which can increase its usefulness across different medical schools or departments, enhancing its impact and scalability.
 
 P5 - Machine learning-based Estimation of Power Systems Strength
 Impact Score: 4
-Feasibility Score: 3
+Feasibility Score: 2
 Scalability Score: 4
 
 Strengths:
-- This project addresses a significant and current problem in the power grid industry, particularly in relation to the integration of renewable energy sources. Given Australia's rapid deployment of renewable energy, the impact of project success is substantial.
-- The use of AI and machine learning in this context is novel and holds promise for impactful solutions that could improve power grid stability without requiring extensive physical infrastructure changes.
+- Addresses a significant and relevant problem related to power grid stability, which is crucial with increasing renewable energy integration.
+- The project has good potential for scalability and broader applications within the energy sector, especially as the reliance on renewable sources grows.
 
 Weaknesses:
-- The project may suffer from an overly broad scope, given the wide range of AI and machine learning models mentioned (e.g., GNN, CNN, RNN, LSTM). Evaluating and comparing multiple complex models within a 10-week timeframe may be unrealistic.
-- The prerequisite knowledge in AI and machine learning for this project is quite high. While students can develop these skills during the project, managing the steep learning curve for multiple advanced techniques can be challenging.
+- The project heavily relies on artificial intelligence and machine learning techniques without clear evidence that simpler, non-AI methods have been sufficiently explored first.
+- The 10-week timeframe for a team of 6 students to develop and validate complex AI models for power system strength estimation seems overly ambitious and may lead to an incomplete or underdeveloped solution.
 
 Suggestions for Improvement:
-- Narrow the focus to a specific type of AI or machine learning model that is most appropriate for the problem. This focus will allow deeper exploration and more polished outcomes.
-- Include a phased approach in the project plan. Begin with simpler models to establish a baseline and then incrementally add complexity. This can help manage the timeframe and skill development for students.
-- Incorporate more focused mentorship or workshops on specific AI/ML techniques needed for the project to ensure the team is well-equipped to tackle the challenges.
-- Include a risk assessment and contingency plan for potential roadblocks, such as difficulties in data acquisition or unexpected delays in learning and implementing machine learning models.
+- Consider initially exploring simpler, non-AI based methods for power system strength estimation as a baseline before diving into advanced AI models. This could help in understanding the problem better and provide a solid foundation for comparison.
+- Narrow down the scope to specific and achievable sub-goals within the 10-week timeframe, such as focusing on just one type of machine learning model or a particular segment of the power grid. This would make the project more manageable and lead to more tangible outcomes.
 
 P6 - Development of a Web Interface for Real-Time Control of Baxter Robot with new perception hardware
-Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
+Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
 
 Strengths: 
-- The project addresses a significant problem by enabling real-time control of the Baxter robot, which could greatly benefit industries such as manufacturing and logistics. 
-- It incorporates a range of advanced technologies, including ROS, containerization, and continuous integration, which can provide valuable hands-on experience to the students.
+- The project aims to integrate several advanced technologies, including robotics, web development, and machine learning, which can offer a comprehensive learning experience for the students.
+- Automation of development tasks and containerization are highly relevant skills for modern software development practices, thus preparing students for industrial work.
 
 Weaknesses: 
-- The scope of the project appears quite ambitious for a 10-week timeframe, especially considering the diverse skill set required, which might lead to an incomplete or less polished final product.
-- The potential for academic advancement is somewhat limited, as similar solutions might already exist, and the project primarily focuses on integration rather than novel research contributions.
+- The project appears overcomplicated, particularly the inclusion of AI and machine learning components without clear evidence that simpler methods have been rigorously considered or are inadequate.
+- The timeline of 10 weeks for a team of six students to complete all phases, including assembly, programming, web development, and implementing CI/CD pipelines, is highly ambitious and may be impractical.
 
 Suggestions for Improvement:
-- Narrow down the project scope to focus on fewer core functionalities, ensuring that they can be completed to a high standard within the given timeframe. For example, prioritize developing the web interface and basic real-time control, and consider advanced ROS concepts as stretch goals.
-- Provide more structured guidance and milestones to help the team manage their time effectively and ensure incremental progress throughout the 10-week period. This could involve splitting the project into smaller, more manageable tasks with well-defined deliverables leading up to the final submission.
+- Simplify the scope by focusing on core functionalities first, such as basic control and configuration of the Baxter robot via a web interface. Machine learning and advanced ROS concepts can be introduced as stretch goals or future work.
+- Reduce the number of objectives. For example, defer some advanced tasks like continuous integration or containerization until basic functionalities are well-established and tested.
+- Consider breaking down the project into smaller, more manageable subprojects that allow different teams to focus on specific aspects. This can ensure more depth in each area and increase the quality of the final deliverables.
+  
+By addressing these suggestions, the project would not only become more feasible but also allow the students to produce a more polished and impactful product.
 
 P7 - Optimal Control in Epidemiology via Neural Ordinary Differential Equation Control (NODEC)
 Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
+Feasibility Score: 2
+Scalability Score: 3
 
 Strengths: 
-- The project addresses a significant and current problem in the field of epidemiology, especially relevant given recent global events like the COVID-19 pandemic.
-- The combination of Neural ODEs and reinforcement learning is innovative and has the potential for substantial impact in modeling and controlling epidemic dynamics more effectively than traditional methods.
+- The project addresses a significant and timely problem, particularly in the context of managing outbreaks like COVID-19.
+- The integration of Neural Ordinary Differential Equations (NODEs) and deep learning with epidemic modeling is novel and has the potential to advance both fields academically.
 
-Weaknesses:
-- The requirement for high-performance computing resources and extensive training on large-scale simulations could be a significant barrier, especially given the 10-week timeframe and the diverse skill levels of the team.
-- The expected knowledge base, particularly in deep learning techniques and numerical methods for ODEs, may be overly ambitious for a team of undergraduate students to master and apply effectively within the project period.
+Weaknesses: 
+- The project may be overly ambitious for a team of six students to complete in 10 weeks due to the complexity of NODEs and the computational resources required for training and running large-scale simulations.
+- The inclusion of reinforcement learning further complicates the project, potentially diverting focus and resources from the primary goal.
 
 Suggestions for Improvement:
-- Narrow the scope of the project to ensure completion within the given timeframe. For example, focus on developing the NODEC framework first, and if time permits, integrate the reinforcement learning aspect later.
-- Provide more structured and incremental milestones to track progress and ensure that each group is meeting its targets. This would help in managing time better and addressing potential skill gaps early in the project.
-- Consider offering additional training sessions or resources on the necessary deep learning and numerical methods to prepare the students more effectively for the project's requirements.
+- Narrow the scope to focus solely on developing and testing the NODEC framework on simulated epidemic data initially, postponing the integration of reinforcement learning to a possible future extension.
+- Ensure access to high-performance computing resources is secured beforehand and provide additional support or training on these tools to increase the feasibility of the project within the given timeframe.
 
 P8 - LLM for recommending services on AskIzzy
-Impact Score: 4
+Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths: 
-- The project targets a significant social issue, aiming to help people in need by recommending services on AskIzzy. This has a direct and clear societal benefit, especially for marginalized and underserved communities.
-- Integrating a Large Language Model (LLM) adds a layer of advanced technology that can significantly improve user interaction and accessibility.
+- The project addresses a real-world issue by helping people find necessary services, which can have a direct impact on individuals in need.
+- The utilization of a Large Language Model (LLM) offers a modern and potentially effective approach to improving service recommendations.
 
-Weaknesses: 
-- The project may face substantial challenges in data collection and annotation, particularly ensuring the quality and relevance of the dataset for effective training and evaluation of the LLM.
-- Implementing a full-fledged recommendation engine along with a basic front-end interface within 10 weeks may stretch the students' capabilities, leading to a potentially incomplete or unpolished product.
+Weaknesses:
+- The problem being tackled, while beneficial, is not entirely novel and may have existing partial solutions.
+- The project might suffer from overcomplication, as integrating LLMs with real-life service recommendation could pose significant challenges, especially in a limited timeframe.
 
 Suggestions for Improvement:
-- Narrow down the project scope to focus more on the backend logic and recommendation engine, perhaps using a pre-existing front-end template to save development time.
-- Collaborate closely with Infoxchange and other stakeholders to ensure access to necessary data and resources, and potentially gain additional support in terms of expertise and validation of the recommendation system.
-
+- Consider conducting a preliminary feasibility study or proof of concept with a simpler model before committing fully to LLM integration. This will help to identify potential pitfalls early and ensure the project remains manageable.
+- Enhance the scope of the project by collaborating with potential end-users (e.g., charities, individuals in need) to gather more targeted requirements and insights, ensuring the developed solution is highly practical and usable.
 
 P9 - UNSW Finance Hot Desking Application
-Impact Score: 3
-Feasibility Score: 4
-Scalability Score: 4
+Impact Score: 2
+Feasibility Score: 3
+Scalability Score: 3
 
-Strengths: 
-- The project addresses a real and practical problem faced by the finance department, with a clear use case within the university setting.
-- The proposed application includes essential features that can significantly improve space management and user experience, such as live office floor maps, reservation visibility, and the ability to assign desks to individuals or teams.
+Strengths:
+- The project addresses a practical need within UNSW Finance, offering a solution to real-world hot desking challenges.
+- It leverages a mix of relevant technologies such as web and mobile application development, providing a comprehensive learning experience for students.
 
-Weaknesses: 
-- While the project has practical benefits, it lacks significant novelty or broad academic advancement, as similar solutions like Kadence already exist in the market.
-- The requirement for a mobile and web application with advanced features like live data, integrations with teams/outlook, and a video fly-through could add complexity that might challenge the team within the given 10-week timeframe.
+Weaknesses:
+- The problem being addressed is relatively minor and can be seen as overcomplicated, given that there are off-the-shelf solutions like Kadence that already provide similar functionalities.
+- The scope of the project is quite extensive for a 10-week timeline, considering features like live floor maps, check-in features, various user roles, and mobile compatibility.
 
 Suggestions for Improvement:
-- Focus on a minimum viable product (MVP) that addresses the core needs such as desk booking, live floor map updates, and basic reporting. This approach could help ensure the project is completed within the timeframe and provides a solid foundation for future enhancements.
-- Consider adding a research component that explores potential algorithmic or data-driven optimizations for space management. This could elevate the academic value of the project by contributing new insights to the field of smart workspace management.
+- Narrow down the scope to focus on core functionalities initially, such as desk booking and basic visualization of floor plans. This makes the project more manageable and allows for a more polished final product.
+- Consider integrating with existing platforms like Office 365 or Google Workspace to streamline development and leverage existing functionalities, reducing the complexity of implementing features from scratch.
 
 P10 - Program for Learning Interactively through Virtual Case Scenarios
-Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a significant problem related to student engagement and educational effectiveness in the field of Optometry and Vision Science. 
-- The proposed solution can positively impact the learning experience by providing interactive virtual case scenarios integrated with students' progression tracking.
-
-Weaknesses: 
-- The project appears to overlap significantly with existing solutions like H5P and Articulate360, indicating that a more thorough literature and tool review might reveal off-the-shelf solutions that could meet most of the needs, thus reducing the academic novelty.
-- The requirement to develop a fully functional software program within a tight 10-week timeframe is highly ambitious and may lead to an incomplete or unpolished final product.
-
-Suggestions for Improvement:
-- Consider focusing the project on enhancing existing tools like H5P or Articulate360 to better meet the specific tracking and integration requirements rather than developing a new software program from scratch. This could increase feasibility and academic novelty.
-- Outline a more detailed project plan that breaks down the development tasks and allocates timeframes and responsibilities among group members. This can help ensure that the project remains on track and can be realistically completed within the given timeframe. Additionally, early prototyping and user feedback cycles should be incorporated to refine the solution iteratively.
-
-P11 - Convert a VR supermarket game in Unreal to run standalone
 Impact Score: 3
 Feasibility Score: 4
 Scalability Score: 3
 
-Strengths: 
-- The project addresses a relevant and meaningful application in the rehabilitation field, potentially aiding patients who need to re-learn basic tasks.
-- The main objective of converting a VR application to a standalone format on the Meta Quest headset is technically engaging and has tangible outcomes.
+Strengths:
+- The project addresses a real problem in student engagement for Optometry and Vision Science programs, aiming to enhance learning through interactive virtual case scenarios.
+- The deliverable—a software program that integrates into existing learning management systems and tracks student progression over time—has a clear, defined goal and practical applications.
 
-Weaknesses: 
-- The novelty of the problem is limited since it primarily involves optimization and porting rather than creating a fundamentally new application or solving an unaddressed challenge.
-- Academic advancement potential is low. The problem could potentially be solved by off-the-shelf solutions with more diligent research and isn't pushing new boundaries in computer science.
+Weaknesses:
+- The project aims to create something akin to H5P or Articulate360 but with additional functionalities. This might imply substantial development effort, and there's a risk of reinventing the wheel if existing solutions can be adapted with minor tweaks.
+- The specified programming languages (C/C++, Java, HTML) seem broad and not entirely aligned with the usual stack for developing such web applications, suggesting a potential mismatch in technical strategy and ultimate goals.
 
 Suggestions for Improvement:
-- Enhance the scope of the project to include novel features or research components that contribute to the academic field, such as studying the efficacy of VR rehabilitation or developing new interaction models in VR environments.
-- Implement a phased approach to ensure that the team can achieve incremental milestones, providing clear checkpoints for evaluation and adjustment, which can help in managing the scope and ensuring a polished outcome.
+- Conduct a more thorough analysis of existing tools like H5P and Articulate360 to understand precisely where they fall short and if those gaps can be bridged without starting from scratch. This can save significant development time and focus efforts on true innovation areas.
+- Narrow down the required tech stack to ensure it aligns with modern web development best practices. For instance, focus on an appropriate framework (e.g., React or Angular for the frontend, Node.js or Django for the backend) that can facilitate integration with learning management systems like Moodle.
+
+P11 - Convert a VR supermarket game in Unreal to run standalone
+Impact Score: 3
+Feasibility Score: 3
+Scalability Score: 3
+
+Strengths:
+- The project addresses a tangible issue in the rehabilitation field, potentially aiding patients in re-learning basic tasks.
+- The students will gain practical experience in VR development and optimizing applications for standalone devices, which are valuable skills in the current job market.
+
+Weaknesses:
+- The problem, while practical, is not particularly novel or transformative given that similar rehabilitation tools exist.
+- Converting an existing VR game to run on a standalone device may involve complex optimization and performance tuning issues, posing significant challenges for a team of students to complete within 10 weeks.
+
+Suggestions for Improvement:
+- The project could emphasize innovative aspects or additional unique features that differentiate it from existing solutions, thereby increasing its potential for academic and social impact.
+- Ensure the project's scope is well-defined and realistic for a team of 6 students. Consider breaking down the task into manageable components and prioritizing the most critical elements of the conversion to ensure the project can be completed within the timeframe.
 
 P12 - Solving Classic Transportation Problem in New AI Approach (ML & MDCVRPTW)
-Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
+Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
 
 Strengths: 
-- The project addresses a significant and well-known problem in the field of logistics and transportation management, which has clear and important real-world applications.
-- Combining machine learning with traditional heuristic approaches represents a novel angle and holds good potential for advancing the efficiency of solving the Multi-Depot Capacitated Vehicle Routing Problem with Time Windows (MDCVRPTW).
+- The project addresses the Multi-Depot Capacitated Vehicle Routing Problem with Time Windows (MDCVRPTW), a well-known and complex problem in logistics and transportation management, which has real-world applications.
+- The proposal includes a comprehensive scope that covers problem formulation, machine learning framework development, simulation and training, performance evaluation, and documentation, which ensures methodological rigor.
 
-Weaknesses: 
-- The scope of the project may be overly ambitious for a team of 6 students to complete in 10 weeks, especially given the advanced nature of the required machine learning and optimization techniques.
-- There is a potential challenge in acquiring or generating sufficient and high-quality data that accurately reflects real-world scenarios for training and testing the machine learning models.
+Weaknesses:
+- The reliance on a "new AI approach" seems to be driven by the hype around AI without strong justification. Traditional methods could potentially provide robust solutions if optimized correctly.
+- The feasibility is highly questionable. Developing a machine learning model that can effectively solve MDCVRPTW within a 10-week timeframe is highly ambitious, especially for a team of students who may not have prior extensive experience in this niche area.
 
 Suggestions for Improvement:
-- Focus on a more narrowly defined aspect of the MDCVRPTW problem to ensure that the project remains manageable within the available timeframe. This might include limiting the scope to a single depot scenario initially before exploring multi-depot situations.
-- Incorporate a detailed risk management plan to address potential challenges in data acquisition and model training. This plan should include contingencies such as starting with simulated data and transitioning to real data as it becomes available.
+- Narrow down the project's scope to a more focused aspect of the MDCVRPTW problem. For example, instead of solving the problem entirely with a novel AI approach, students could compare existing heuristic methods and find ways to enhance them with machine learning elements.
+- Provide a more rigorous justification for the need for AI in this project. Ensure that traditional methods have been thoroughly evaluated and state explicitly why they fall short and how AI can provide a substantial improvement.
 
+This balanced but critical evaluation aims to highlight both the strengths and potential areas for improvement to guide the students in refining their project proposal and setting realistic expectations.
 
 P13 - Rostering using Large Language Models (LLM)
-Impact Score: 4 
-Feasibility Score: 3
-Scalability Score: 4
+Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
 
-Strengths: 
-- The project addresses a significant and pressing issue in healthcare, balancing staff needs with patient care in a complex environment. The potential to improve efficiency and effectiveness in healthcare delivery is substantial.
-- The project aims to leverage advanced AI technologies, specifically Large Language Models (LLMs), to tackle an NP-hard problem, demonstrating innovative thinking and potential for impactful solutions.
+Strengths:
+- The project addresses a well-known and important problem in the healthcare sector, specifically the nurse scheduling problem.
+- The use of LLMs to handle unstructured data and complex scenarios involving human-like decision-making can lead to innovative solutions and potential academic value.
 
-Weaknesses: 
-- The implementation feasibility is questionable within the given 10-week timeframe for a team of 6 students, even with diverse backgrounds. Developing a fully functional and reliable LLM-based rostering system would require significant expertise and time, especially when dealing with the intricacies of healthcare rostering.
-- The reliance on LLMs for tasks that require nuanced human judgment and empathy might be overly ambitious. While LLMs are powerful, ensuring their decisions adhere to complex, real-world constraints and human factors is challenging.
+Weaknesses:
+- The project may be overcomplicated by focusing on AI/LLMs without rigorously proving that simpler algorithmic or heuristic methods cannot solve the rostering problem effectively.
+- The feasibility of completing such a complex project within 10 weeks by a team of 6 students is highly questionable, owing to the need for significant domain expertise, sophisticated AI model integration, and extensive testing.
 
 Suggestions for Improvement:
-- Narrow the project's scope to focus on a specific subset of healthcare rostering issues, such as handling emergency shift changes or managing leave requests, rather than attempting to build a comprehensive system. This would make the project more manageable and increase the likelihood of successful implementation.
-- Incorporate iterative testing with real-world data and feedback from healthcare professionals to fine-tune the LLM's performance and ensure that the system addresses practical needs effectively. This will help in refining the model's capabilities in a realistic context and improve the feasibility of the project.
+- Simplify the initial scope of the project by focusing on key sub-components such as basic scheduling and fine-tuning algorithms before integrating LLMs. Establish a clear baseline and demonstrate the limitations of existing solutions.
+- Focus on a more manageable set of requirements for the 10-week period. For example, start with handling schedule changes due to sick leave and small-scale emergency adjustments before attempting full automation and voice interface functionalities.
+
 
 P14 - Real Time Retinal Vessels Segmenter
 Impact Score: 4
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
-Strengths: 
-- Addresses a significant problem with clear potential benefits in medical diagnostics, which is impactful to both society and the medical industry.
-- Utilizes modern technologies like deep learning and computer vision that are highly relevant and valuable in today's tech landscape.
+Strengths:
+- Addresses a significant medical problem with clear implications for early detection of diseases such as glaucoma and Alzheimer’s, thereby potentially saving lives and reducing healthcare costs.
+- Integrates multiple specializations within computer science (AI, computer vision, HCI), offering a rich, interdisciplinary learning experience for students.
 
-Weaknesses: 
-- The project might face substantial challenges in achieving real-time processing with high accuracy given the 10-week timeframe and the skill levels of the students.
-- The necessity of creating a lightweight yet highly accurate trained model is ambitious and may require a level of optimization that might be unrealistic for a student team within the given period.
+Weaknesses:
+- Requires a high-level understanding of neural networks and digital imaging, which could be challenging for students to master within a 10-week timeframe.
+- The real-time requirement and the need for high accuracy and minimal run-time present substantial technical challenges that may not be fully achievable by intermediate students in the given period.
 
 Suggestions for Improvement:
-- Narrow the project focus to ensure manageability within the 10-week timeframe. For instance, focus on achieving high accuracy first before attempting real-time processing.
-- Provide a detailed plan for the division of labor among the students to effectively distribute tasks related to model training, user interface design, and integration, ensuring balanced progress across multiple project components.
+- Simplify the scope by focusing first on achieving accurate segmentation without the real-time constraint. This would allow the team to concentrate on ensuring the model performs well without the added pressure of real-time processing.
+- Include a comprehensive introductory phase where students can get up to speed on necessary pre-requisites, such as the basics of digital imaging and neural networks. This could be done through workshops or guided tutorials before diving into project execution.
 
 P15 - Verifiable Credentials: The Future of Digital Identity in Action (A Demo Application)
 Impact Score: 4
@@ -252,50 +249,50 @@ Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant and timely issue related to digital identity and privacy, specifically focusing on the concept of Self-Sovereign Identity (SSI), which could have a substantial impact on user privacy and data security.
-- The project builds on an existing codebase, which means the students can focus on extending and refining rather than starting from scratch, making it more feasible within the timeframe.
+- The project addresses a significant and current problem in the digital identity space, particularly concerning the security and privacy challenges of centralized identity management systems.
+- The project has clear technical objectives, including the implementation of verifiable credentials with selective disclosure and unlinkability, which can have robust future applications.
 
 Weaknesses:
-- The project requires a considerable breadth of skills including software engineering, library design, protocol implementation, and app/web development, which might be challenging for a team to master within 10 weeks.
-- The reliance on an existing codebase could limit creativity and innovation, and the current codebase may require significant refactoring to meet the new project goals, increasing the risk of encountering unexpected issues.
+- The project’s existing codebase and the need to work without a defined language might present integration challenges and steep learning curves, especially given the short 10-week timeframe.
+- The requirement to fully implement a complex and interconnected multi-party system might be overly ambitious. There are numerous technical challenges, including protocol design, library creation, and UI/UX considerations.
 
 Suggestions for Improvement:
-- Narrow the scope to focus on implementing a single, but complete, user scenario in depth (e.g., driver's license verification at a bar). This allows the team to produce a polished and thoroughly tested demo, reducing the technical debt from attempting too many features.
-- Introduce a clear and detailed project timeline with milestones and deliverables. Given the complexity, weekly targets would help manage progress and identify potential roadblocks early. Additionally, ensure a strong emphasis on testing from the beginning to catch integration issues sooner rather than later.
+- Consider narrowing the scope of the deliverables. For example, instead of a fully comprehensive demo application, focus on perfecting one key aspect like the digital wallet with selective disclosure.
+- Provide more detailed timelines and intermediate milestones to better manage the project scope and ensure all key components are addressed sequentially. This could improve feasibility and ensure more polished deliverables.
 
 P16 - Region-attention based medical image segmentation
 Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
+Feasibility Score: 2
+Scalability Score: 3
 
-Strengths: 
-- The project addresses a significant problem in the medical field: accurate segmentation of medical images, which is crucial for diagnosis and treatment planning.
-- The use of region-based attention mechanisms in deep learning is a cutting-edge approach with the potential to enhance the precision and robustness of medical image segmentation.
-
-Weaknesses: 
-- The project may face significant challenges due to the scarcity of annotated datasets and the inherent complexity of medical image segmentation tasks.
-- The requirement to develop a user interface adds an extra layer of complexity that could divert focus from the core technical challenges of the project.
-
-Suggestions for Improvement:
-- Consider reducing the scope by focusing on a single segmentation task (either skin lesions or multi-organ nuclei) to ensure depth rather than breadth. This would make the project more manageable within the 10-week timeframe.
-- Increase collaboration with medical professionals to ensure the clinical relevance and practicality of the segmentation results. This could also help in acquiring diverse and high-quality training datasets.
-
-P17 - Finding, extrapolating, recommending and map connections in social media data sets
-Impact Score: 3
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project covers an important and current topic involving large data sets and social media, areas that are very relevant in today's digital world.
-- The use of big data analytics, recommendation systems, and visualization can provide students with exposure to complex and in-demand technical skills.
+Strengths:
+- The project addresses a significant problem in the medical domain, aiming to improve diagnostic accuracy and speed, which has clear societal benefits.
+- Utilizes cutting-edge techniques in computer vision and deep learning, providing students with relevant and advanced skills in AI and medical imaging applications.
 
 Weaknesses:
-- The project scope seems overly broad, with multiple complex tasks such as finding connections in large datasets, mapping these connections, and developing recommendation systems. This could result in a lack of focus.
-- Data privacy and ethical concerns are not addressed, which is crucial for a project dealing with potentially sensitive social media data.
+- The project might be overly ambitious for a 10-week timeframe, considering the complexity of implementing region-based attention models and the need to tackle two distinct segmentation tasks.
+- Dependence on high-quality annotated datasets, which are often scarce, could be a significant barrier. Moreover, the requirement for building a user interface adds to the complexity.
 
 Suggestions for Improvement:
-- Narrow the scope of the project to focus on one or two primary objectives, such as either mapping connections or developing a recommendation system, to ensure a more focused and manageable project.
-- Include a clear plan on how to address data privacy and ethical considerations. This could involve guidelines on data anonymization or securing necessary permissions for data usage.
+- Narrow the project's scope to focus on a single segmentation task (either skin lesions or multi-organ nuclei) to make it more feasible within the given timeframe.
+- Provide a more detailed project plan emphasizing the division of work, incremental milestones, and specific learning modules to ensure intermediate skills can be acquired effectively. Additionally, consider leveraging pre-existing frameworks and models to reduce the development time required.
+
+P17 - Finding, extrapolating, recommending and map connections in social media data sets
+Impact Score: 4
+Feasibility Score: 2
+Scalability Score: 3
+
+Strengths:
+- The project addresses a relevant and significant problem in the field of social media analysis which can have important applications in marketing, user experience, and connection recommendations.
+- It offers a comprehensive experience in various facets of computer science including software development, data analysis, and algorithm design, thus providing a well-rounded exposure to practical and technical skills.
+
+Weaknesses:
+- The requirement to extrapolate and recommend connections is highly complex and likely overcomplicated, especially given the short 10-week timeline and the diverse backgrounds of the students.
+- There is a substantial need for knowledge in various domains including big data analytics, recommendation algorithms, and both front and back-end development. This might be highly challenging for students, particularly if they lack prior expertise in any of these areas.
+
+Suggestions for Improvement:
+- Simplify the scope of the project by focusing on a smaller subset of the problem. For instance, instead of both mapping and recommending connections, the team could choose to focus solely on an advanced visualization tool for social media connections initially.
+- Introduce intermediate milestones with smaller, well-defined deliverables. This can help maintain progress and ensure that the project does not become too overwhelming, and can be adjusted according to the capabilities and progress of the team.
 
 P18 - Business Process for SMEs Utilizing E-invoicing APIs
 Impact Score: 3
@@ -303,33 +300,35 @@ Feasibility Score: 4
 Scalability Score: 4
 
 Strengths: 
-- The project addresses a real-world problem which is the inefficiency and errors associated with traditional invoicing methods, providing a clear benefit for SMEs in terms of streamlining e-invoicing processes.
-- The project has a well-defined scope and clear deliverables, including a functional GUI, full source code, and comprehensive documentation, making it easier to manage and assess progress.
+- The project aims to address a relevant and growing need for SMEs to comply with government regulations on e-invoicing, which can enhance compliance and efficiency.
+- It involves practical skills in software and web development, allowing students to gain hands-on experience that is directly applicable in the industry.
 
 Weaknesses: 
-- The problem being addressed, while useful, is not particularly novel. Solutions for e-invoicing already exist, and thus the potential for academic advancement is limited.
-- The project's dependency on existing APIs may limit the creative aspect and reduce the scope for original contributions from the students.
+- The problem being addressed is moderate in novelty and impact, as e-invoicing systems already exist, and the project may end up replicating existing solutions with minor customizations.
+- The complexity of ensuring compatibility with various SME systems and regulatory compliance might be underestimated, posing potential integration challenges.
 
 Suggestions for Improvement:
-- To increase the academic impact, consider incorporating elements of machine learning or advanced data analytics. For example, predictive analytics for invoice approval times or anomaly detection in invoicing patterns could add significant value.
-- Include a phase for real-world user testing within SMEs. Rather than just demonstrating the API functions on a GUI, engage directly with potential users to gather feedback and iterate the solution. This will not only enhance the practical impact but also provide valuable insights and validation of the system’s effectiveness.
+- Consider incorporating a more innovative aspect, such as utilizing new technology or integrating additional functionalities that distinguish the project from existing solutions (e.g., incorporating machine learning for anomaly detection or fraud prevention in e-invoices, rigorously justified).
+- Ensure a detailed risk assessment and mitigation plan is included, specifically addressing potential integration challenges and compliance with varying regional regulations. This would increase the robustness and applicability of the project.
 
 P19 - A web-based digital twin platform for sustainability analysis
 Impact Score: 3
 Feasibility Score: 4
 Scalability Score: 4
 
-Strengths:
-- Addresses a relevant and moderately significant problem related to sustainability and carbon footprint analysis, which has clear societal and environmental benefits.
-- Utilizes an existing open-source framework (TerriaJS), which simplifies the development process and provides a solid foundation for the project.
+Strengths: 
+- The project addresses the significant and relevant issue of carbon footprints and greenhouse gas emissions, which is important for sustainability and environmental management.
+- The use of an established open-source framework like TerriaJS implies a structured approach and access to existing tools and documentation, enhancing the feasibility of the project.
 
-Weaknesses:
-- The novelty of the project is limited as it primarily involves customizing existing software rather than developing new technology or methodologies, which restricts academic advancement potential.
-- Dependence on the availability and quality of greenhouse gas emissions and land use data, which could present integration challenges.
+Weaknesses: 
+- The impact might be limited to the academic scope or specific use cases in Australia, reducing the broader potential societal influence.
+- While it leverages TerriaJS, the project might lack technical depth if the main tasks involve primarily configuring existing tools rather than developing new, innovative functionalities.
 
 Suggestions for Improvement:
-- Incorporate a more innovative component, such as developing new analytical methods or predictive models for greenhouse gas emissions that could offer academic contributions beyond existing solutions.
-- Plan a detailed project timeline with milestones and allocate specific tasks to each team member to ensure efficient time management and enhance the feasibility of delivering a polished final product.
+- Incorporate a more novel technological element or original research, which could elevate the impact. For example, develop unique analytical algorithms or machine learning models to predict future emissions.
+- Ensure that the platform is designed to be flexible and user-friendly even for non-experts, which would enhance its usability and potential broader adoption outside just an academic setting.
+
+Note: The inclusion of JSON configuration as a major task might reduce technical rigor. Ensure to incorporate significant customization or software development tasks to challenge the skill sets of final-year students.
 
 P20 - Building Time Series Analysis
 Impact Score: 3
@@ -337,68 +336,70 @@ Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses an important and timely issue, given the global shift towards sustainable energy management and the increasing integration of IoT in building management systems.
-- The project offers a comprehensive application of AI/ML and data analytics, providing students with valuable hands-on experience in working with real-world data and advanced technologies.
+- The project addresses the significant issue of enhancing energy management systems in buildings, which has clear relevance given the global push for sustainability and renewable energy usage.
+- The inclusion of skills development in AI/ML and practical data analysis for IoT data offers valuable educational benefits and practical training for students.
 
 Weaknesses:
-- The novelty of the project can be questioned from an academic perspective; similar initiatives and off-the-shelf solutions might already exist in the market, limiting the potential for academic advancement.
-- The project's scope is vast and may be overly ambitious for a 10-week timeframe, especially considering data preprocessing, model development, and performance evaluation tasks.
+- There is a level of complexity introduced by leveraging AI/ML without sufficient preliminary justification that simpler methods would be inadequate. This could potentially make the project more challenging and overcomplicated than necessary.
+- The time constraint of 10 weeks for a team of students with intermediate skills might make it difficult to achieve substantial real-world results, reducing the potential impact.
 
 Suggestions for Improvement:
-- Narrow the scope of the project to focus on a specific aspect of time-series analysis or a particular type of anomaly detection to ensure the project is manageable within the given timeframe.
-- Incorporate a more explicit review of existing solutions and clearly define what the project aims to improve upon, thereby adding a unique contribution to the academic and practical field.
-
+- Consider narrowing the project's focus to a specific, manageable aspect of Building Management Systems, such as improving data preprocessing techniques or anomaly detection, to ensure more achievable and measurable results within the given timeframe.
+- Instead of starting with AI/ML, initially explore and document simpler statistical methods or rule-based systems for baseline creation and monitoring. If these simpler methods are inadequate, then move on to more complex AI/ML solutions. This avoids unnecessary complexity and ensures a more grounded approach.
 
 P21 - Building Time Series Visualization
 Impact Score: 3
-Feasibility Score: 4
+Feasibility Score: 3
 Scalability Score: 4
 
-Strengths: 
-- The project addresses a moderately significant problem in the field of sustainable building management and the integration of IoT data for energy use optimization.
-- The project offers a realistic and well-defined scope that includes data analytics and visualization, which are critical skills for computer science students.
+Strengths:
+- The project aligns with the rising demand for sustainable energy management and integration of IoT technology in building management systems, which offers some clear societal and industrial benefits.
+- Visualization of time series data is crucial for real-time monitoring and decision-making, making it a valuable tool for building operations and energy management strategies.
 
-Weaknesses: 
-- The novelty of the project might be limited as data visualization for time series is a well-explored area, and many off-the-shelf solutions already exist.
-- The academic advancement is not particularly high, as this project leans more towards application than generating new theories or significant research questions.
+Weaknesses:
+- The problem, while useful, isn't significantly novel and is somewhat limited to the scope of building management, reducing its broad academic impact.
+- The project risks being overcomplicated if students attempt to incorporate advanced AI/ML models without first focusing on achieving basic visualization and data processing goals. This could also stretch their 10-week timeline.
 
 Suggestions for Improvement:
-- To increase the impact, the project could incorporate advanced AI/ML techniques to predict future building energy consumption or identify specific anomalies, adding a layer of innovation beyond standard visualization.
-- Consider integrating a component that allows for real-time data integration and monitoring, which would substantially improve the practical utility and scalability of the project. This could also challenge the students to deepen their skills in real-time data processing and system integration.
+- Narrow down the project's focus to ensure a feasible and high-quality output. Prioritize developing robust data cleaning and visualization tools without diving too deep into advanced analytics, which can be a secondary goal if time permits.
+- Enhance the novelty by incorporating additional dimensions or comparative studies of different buildings’ IoT data, or by integrating findings with existing BMS to directly demonstrate improvements in systems' responsiveness and efficiency. This could elevate the project’s impact score by adding a more substantial research component.
 
 P22 - Prototyping Design Solutions
 Impact Score: 3
 Feasibility Score: 4
 Scalability Score: 3
 
-Strengths:
-- The project addresses the development of a web application for two-sided marketplaces, which is a relevant and practical problem with moderate potential impact.
-- The collaboration with postgraduate entrepreneurship students offers a valuable interdisciplinary learning experience and real-world client interaction.
+Strengths: 
+- The project has a clear goal of creating a robust backend and user-friendly front-end interface for web applications, which is relevant and beneficial for students looking to gain real-world technical skills.
+- The project involves collaboration with postgrad entrepreneurship students, providing a valuable opportunity to learn about entrepreneurship and client interaction.
 
-Weaknesses:
-- The project may lack academic novelty and could potentially be solved using existing off-the-shelf solutions, making its contribution to academic advancement limited.
-- The scope of required features (dynamic listing management, secure payment processing, effective user engagement tools, dashboards, and analytics) is broad and may be overly ambitious within the 10-week timeframe.
+Weaknesses: 
+- The project does not address a pressing or particularly novel issue. The creation of web applications for two-sided marketplaces is a moderate problem with some potential impact, but it is not transformative or groundbreaking.
+- The project lacks specificity in its technical requirements and desired features. While terms like "dynamic listing management" and "secure payment processing" are mentioned, they are not detailed enough to provide a clear understanding of the project's scope.
 
 Suggestions for Improvement:
-- Narrow the project's scope to focus on achieving fewer but more critical features, particularly those that add unique value or present significant technical challenges, to ensure a more polished and complete deliverable.
-- Emphasize the innovative aspects of the project that could advance academic knowledge, such as incorporating cutting-edge technologies or novel algorithms, to enhance its impact score.
+- To increase the impact score, the project could focus on a more specific and significant problem within the realm of two-sided marketplaces. For instance, addressing a market gap or a unique user need could make the project more impactful.
+- Provide a more detailed and specific breakdown of the required features and technical specifications. This would help in better understanding the scope of the project and ensure that all essential elements are covered, enhancing feasibility and scalability.
+
 
 P23 - Predicting the freshness and best-before of foods using AI-based analysis of color and shape change
 Impact Score: 3
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
 Strengths: 
-- The project addresses a relevant issue in the food industry, potentially aiding in reducing food waste and enhancing inventory management.
-- Incorporates multiple advanced technologies like computer vision, machine learning, and AI, providing a rich learning experience for students.
+- The project addresses an important and relevant problem in the food industry, with potential applications in reducing food waste and improving inventory management.
+- The combination of various advanced technologies such as machine learning, computer vision, and big data analytics provides a rich learning experience for students and has academic merit.
 
-Weaknesses: 
-- The problem may not offer significant academic advancement since similar applications might already exist or could be solved through more careful research and existing tools.
-- The project requires a considerable amount of data collection and validation, which may be difficult to accomplish accurately within the 10-week timeframe.
+Weaknesses:
+- The project relies heavily on AI and machine learning without clear evidence that simpler solutions have been explored or ruled out, potentially overcomplicating the problem.
+- The scope of the project may be overly ambitious for a 10-week timeframe, especially considering the requirement to develop both a data collection system and a predictive AI model.
 
 Suggestions for Improvement:
-- Narrow the scope to specific aspects that can be feasibly completed and validated within the given timeframe, such as focusing on color analysis first before implementing shape analysis.
-- Incorporate a plan for rapid prototyping and iterative testing to ensure that at least a minimally viable product is achieved early in the project, allowing more time for refinement and validation.
+- Narrow down the scope to focus on either the data collection system or the predictive model. This could make the project more manageable and likely to be completed within the timeframe.
+- Conduct preliminary research to rule out simpler methods for predicting fruit freshness. This could involve consulting existing literature or developing a basic prototype without AI to see if a simpler solution is viable.
+
+By tackling these weaknesses, the project could become more focused and feasible, ensuring the students can complete it successfully while still offering significant educational value.
 
 P24 - White cane training simulator
 Impact Score: 4
@@ -406,267 +407,266 @@ Feasibility Score: 3
 Scalability Score: 3
 
 Strengths:
-- Addresses a significant and important problem in accessibility for individuals with vision impairment, with a clear potential for societal benefit.
-- Utilizes modern technologies such as VR and motion sensors, which can provide an innovative approach to training.
+- The project addresses a significant and important problem by providing a novel method for training individuals in the use of a white mobility cane, which can greatly benefit people who are blind or have low vision.
+- The project integrates multiple specializations such as software development, HCI, and game development, providing a comprehensive learning experience for students and ensuring a well-rounded approach to the problem.
 
 Weaknesses:
-- The feasibility is somewhat challenging due to the tight 10-week timeline and the need for hardware and software integration, which may result in an incomplete or underdeveloped project.
-- Scaling the project could be complex due to the need for specific hardware and potentially high costs for users, such as specialized sensors and equipment.
+- The feasibility of developing both hardware and software solutions in a 10-week period is highly challenging. The project scope may require a significant amount of time and expertise, particularly in the areas of hardware integration and real-time feedback mechanisms.
+- The technological requirements for detecting and providing immediate auditory or tactile feedback based on movement parameters may be overly complex, especially if alternative simpler solutions are not thoroughly explored first.
 
 Suggestions for Improvement:
-- Consider breaking down the project into smaller, more manageable milestones that can be incrementally achieved. Focus first on developing a functional prototype for one or two key features rather than all feedback mechanisms.
-- Explore partnerships with hardware manufacturers or leverage existing consumer technologies (such as widely available smartphones and their sensors) to reduce costs and complexity, enhancing both feasibility and scalability.
+- Narrow the project scope to focus primarily on either the hardware or software aspects first. For instance, the team could develop the software to work with an existing hardware platform initially. This way, students can ensure they deliver a polished and functional software product before potentially integrating custom hardware in the future.
+- Consider using a phased approach to development. In the initial phase, students could focus on developing and testing the auditory or tactile feedback system with predefined movement parameters. Subsequent phases could gradually incorporate more complex features and additional movement planes, allowing incremental progress and reducing the risk of an incomplete project.
 
 P25 - Exploring Diagnostic Criteria of Binocular Vision Anomalies through Data Simulations
 Impact Score: 3
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
-Strengths: 
-- The project addresses a significant and somewhat complex problem in the field of optometry, potentially improving diagnostic accuracy for binocular vision anomalies.
-- The platform has strong potential as an educational tool for students and as a supplemental diagnostic aid for clinicians.
+Strengths:
+- The project addresses a moderate yet significant problem in the field of optometry by simulating diagnostic criteria for binocular vision anomalies, which could be very educational for both students and clinicians.
+- The interdisciplinary nature of the project, combining data simulations and optometry, can foster valuable collaboration between different fields.
 
-Weaknesses: 
-- The novelty may be somewhat limited as there are existing diagnostic tools and platforms; the real challenge is to show how this project significantly improves upon them.
-- The project requires a diverse set of skills and platforms which may be difficult for a 10-week timeline, especially for a team that may not possess all the necessary expertise from the start.
+Weaknesses:
+- The project's demand for knowledge of a wide range of programming languages (C, C++, Python, R, Java, MATLAB) may be overly ambitious for students to master within a 10-week timeframe.
+- The project might be proposing the integration of AI and ML without thoroughly establishing if simpler solutions can solve the problem, leading to potential overcomplication.
 
 Suggestions for Improvement:
-- Narrow the scope of the project initially to ensure core functionality is solid before expanding to include more features or case studies. Focus on getting a minimal viable product that achieves the essential goals.
-- Consider leveraging existing datasets and AI models and focus on the software engineering aspects of integrating these components efficiently. This might make the project more feasible within the given timeframe.
+- Narrow down the required programming languages to streamline the focus for students. Choose one or two core languages that cover most of the needed functionalities.
+- Eliminate the AI and ML components unless there is a clear, specific benefit and justification. First, consider traditional algorithmic approaches and simulations to establish a proof of concept. 
+
+By addressing these weaknesses and considering these suggestions, the project can become more feasible and impactful.
 
 P26 - Building Question-Answering with Large Language Models
-Impact Score: 4
+Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant and current problem within the domain of sustainable building management, which has clear implications for energy efficiency and cost savings.
-- The use of large language models (LLMs) to create a question-answering system for building management systems is innovative and utilizes state-of-the-art AI techniques, which could provide substantial value for building operators and researchers.
+- The project addresses a relevant and emerging area in sustainable building management, which is important for energy efficiency and environmental health.
+- The project will provide students with valuable experience in working with large language models (LLMs) and real-world IoT data, enhancing their practical skills and employability.
 
 Weaknesses:
-- The scope of fine-tuning a large language model within a 10-week timeframe might be overly ambitious, especially given potential data preprocessing and model training complexities.
-- The proposal lacks detailed contingency plans for potential challenges, such as data quality issues or computational limitations, which are critical given the complexity of handling IoT data and LLMs.
+- The novelty and significance of the problem might be overstated. Existing off-the-shelf solutions could potentially address many of the challenges presented, particularly when relying on extensive LLMs without necessity.
+- The scope of data preprocessing, model development, and performance evaluation might be overly ambitious for a 10-week timeframe, particularly for a team of students without prior extensive experience in LLM fine-tuning.
 
 Suggestions for Improvement:
-- Narrow the scope to focus on a more specific aspect of building management (e.g., anomaly detection or energy usage optimization) to ensure feasibility within the 10-week timeline. This could make the project more manageable and allow for a deeper exploration of a particular problem.
-- Develop a detailed project plan that includes robust risk mitigation strategies, such as dealing with imperfect data and computational resource constraints. This plan should outline specific steps for data preprocessing, model training, and validation, along with fallback options if initial approaches prove infeasible.
+- Narrow down the project's scope to focus on a more specific aspect of building management, such as a single type of query (e.g., energy usage) or a specific task (e.g., anomaly detection). This would make the project more feasible for a 10-week period.
+- Incorporate a feasibility study or pilot phase in the initial weeks to better understand the challenges of integrating LLMs with building IoT data. This will help the team to adjust their approach based on realistic constraints and avoid potential roadblocks.
 
-Ensuring these suggestions are implemented could provide clearer focus and improve the chances of project success while still addressing a significant and impactful problem in the domain of building management systems.
+
 
 P27 - Custom intelligent control for a Pudu Bellabot Food Delivery Robot
-Impact Score: 3
+Impact Score: 4  
+Feasibility Score: 3  
+Scalability Score: 3  
 
-Feasibility Score: 3
+Strengths:  
+- The project addresses a significant and contemporary problem in robotics and automation, with potential applications in various service industries, particularly food delivery.
+- The project builds on an existing platform and requires practical implementation of advanced robotics concepts, providing valuable hands-on experience for the students.
 
-Scalability Score: 2
+Weaknesses:  
+- The project may face substantial technical challenges, such as accessing and integrating various sensors and developing effective SLAM and pathfinding algorithms within a limited timeframe.
+- The dependency on a single robot increases the risk; if the hardware fails or presents unforeseen issues, it could drastically hinder the project's progress.
 
-Strengths:
-- The project offers practical experience in robotics, SLAM (Simultaneous Localization and Mapping), and pathfinding algorithms, providing a strong learning opportunity for students.
-- The use of ROS and access to real-world hardware (Pudu Bellabot) adds tangible value, making outcomes applicable for future research and demonstrations.
-
-Weaknesses:
-- The problem being addressed is not novel, as similar robotics control and pathfinding projects have been widely explored in both academic and industrial settings. The academic impact is limited.
-- The feasibility is moderately challenging given the 10-week timeframe, especially considering the significant learning curve associated with ROS, SLAM, and integration of multiple sensors.
-
-Suggestions for Improvement:
-- Narrow the project scope to ensure completion within the given timeframe. Focusing on a specific aspect of the project, such as optimizing pathfinding algorithms or enhancing sensor integration, might yield more polished results.
-- Increase the scalability potential by designing the project framework to be adaptable to other types of robots or adding functionality for different environments and scenarios. This would enhance its future applicability and relevance.
+Suggestions for Improvement:  
+- Consider starting with a simpler, well-defined set of milestones (e.g., manual path-following before fully autonomous navigation) to ensure initial successes and build confidence among team members.
+- Include a contingency plan addressing potential hardware failures, such as maintaining regular backups of the software and ensuring access to alternative testing environments or simulation tools.
 
 P28 - Development of Online Adaptive Tutorials for Chemistry Teaching Labs
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths: 
-- The project addresses a significant problem in educational technology by providing a personalized learning experience through adaptive tutorials, which can greatly benefit students with diverse backgrounds and learning paces.
-- The project has good potential for scalability as it can be integrated into existing virtual learning environments like Moodle and Blackboard, making it applicable across different educational contexts.
+Strengths:
+- The project addresses a significant educational challenge by providing adaptive learning tools for chemistry labs, potentially benefiting a large number of students with varied backgrounds.
+- The integration of different learning modes (videos, text, animation) and interactive question types makes the project innovative and engaging for students, potentially enhancing their learning experience.
 
-Weaknesses: 
-- The project scope is quite broad and ambitious for the given 10-week timeframe, especially considering the need to develop various modes of content delivery and backend analytics.
-- The proposal lacks detailed information on the technical architecture and specific technologies that will be used, which makes it challenging to assess the feasibility accurately.
+Weaknesses:
+- The scope of the project is quite broad, covering development, content integration, user analytics, and multiple delivery methods, which may be overwhelming for a team of six students within a 10-week timeframe.
+- The requirement for backend data capturing and analytics adds complexity, potentially diverting focus from the main goal of creating a functional adaptive tutorial platform.
 
 Suggestions for Improvement:
-- Narrow down the project scope to focus on one or two key functionalities (e.g., adaptive pathways and one mode of content delivery) that can be realistically completed within the 10-week timeframe. This can help ensure a polished final product.
-- Provide a more detailed project plan with milestones and specific technologies to be used (e.g., programming languages, frameworks, and tools). This will help in better evaluating the feasibility and in ensuring that technical challenges are appropriately managed.
+- Narrow down the scope to focus on a minimum viable product (MVP). Prioritize developing the core adaptive tutorial functionalities first, and consider adding advanced features like backend analytics in later stages or iterations.
+- Consider starting with a simpler set of interactive elements and content types, then expanding gradually based on initial user feedback. This approach allows for better time management and ensures a more polished initial release.
 
 P29 - HDR Topics document management system
-Impact Score: 2
-Feasibility Score: 3
+Impact Score: 3
+Feasibility Score: 4
 Scalability Score: 3
 
-Strengths: 
-- Addresses a specific and defined problem within the UNSW School of Computer Science and Engineering.
-- Utilizes a clear set of technologies and skills that are commonly taught and relevant to students in computer science.
+Strengths:
+- The project directly addresses a current inefficiency in the HDR documentation and tracking process, potentially saving time and reducing errors in manual data handling.
+- Clear requirements and a well-defined scope make it easier to manage and focus on deliverables within the 10-week timeframe.
 
-Weaknesses: 
-- The problem is relatively mundane and does not offer significant academic advancement or societal impact.
-- The project mostly involves automating manual processes and is unlikely to lead to novel research or transformative outcomes.
+Weaknesses:
+- The impact is limited primarily to internal stakeholders within the university (UNSW), which reduces its broader societal or industry impact.
+- The problem being addressed could potentially be solved by existing document management or database automation tools, raising questions about the novelty of the solution.
 
 Suggestions for Improvement:
-- Consider expanding the scope of the project to address a more complex problem or integrating features that could provide additional value, such as predictive analytics on student performance or research trends.
-- Evaluate if there are existing off-the-shelf solutions that could accomplish the same tasks. If such solutions exist, refine the project to focus on unique features or advanced functionalities that are not readily available.
+- Explore integration with existing document management systems or automation tools to enhance the project’s novelty and utility. This could reveal new, more challenging problems to solve.
+- Consider including advanced features such as machine learning for predictive analytics on research trends or interests to increase the project's impact and complexity.
+- Ensure thorough research on GRIS integrations and potential barriers in extracting and updating information to better manage risks associated with data handling.
+- Plan for a robust user interface design phase to ensure that the application is not only functional but also user-friendly, which can often be a major challenge in web application development.
 
 P30 - Royal Hospital for Women Newborn Care Centre Neonatal Milk Checker
 Impact Score: 4
-
-Feasibility Score: 3
-
-Scalability Score: 4
-
-Strengths:
-- The project addresses a significant problem in neonatal care by ensuring the correct allocation of mother's milk to her baby. This reduces the potential distress caused by errors, which has a clear and important impact on the health and well-being of infants and their families.
-- The integration of barcode or QR code scanning for verification adds a layer of reliability and automation to the current manual process, which could serve as a valuable tool in the medical field.
-
-Weaknesses:
-- The hardware and software integration aspect could be challenging, especially for students who may not have extensive experience in interfacing hardware with software systems. This could be a significant hurdle within the 10-week timeframe.
-- There are considerable logistical and regulatory considerations in a healthcare setting that may complicate the deployment and testing phases, such as ensuring compatibility with existing hospital systems like eRIC and compliance with healthcare data privacy standards.
-
-Suggestions for Improvement:
-- Provide a more detailed project timeline and breakdown of tasks to ensure all team members understand their responsibilities and deadlines. This could help in managing the complexity of hardware-software integration within the tight timeframe.
-- Consider starting with a smaller, more controlled pilot implementation within the hospital to gather initial feedback and troubleshoot any issues before scaling up. This phased approach could make the project more manageable and increase the likelihood of success.
-
-
-P31 - Modern Team Evaluation System for Courses with Group Assessments
-Impact Score: 3
-Feasibility Score: 4
-Scalability Score: 4
-
-Strengths:
-- The project addresses a real-world issue that many courses with group projects face, which is ensuring fair contribution assessment among team members.
-- The proposal outlines clear and specific features that could streamline and automate the evaluation process, reducing administrative burden on educators.
-
-Weaknesses:
-- The problem, while significant in the context of course management, lacks broader societal or industrial impact. It primarily benefits a specific academic setting.
-- The requirement to integrate with multiple platforms like GitHub, Jira, and Confluence, particularly as a stretch goal, might pose technical challenges and could be too ambitious for the given timeframe.
-
-Suggestions for Improvement:
-- To enhance the impact, consider expanding the application’s potential user base to include other educational institutions and possibly even corporations that handle team evaluations in a similar manner.
-- Simplify the scope of the project by initially focusing on a more core set of features and ensuring these are robust and effective. Consider postponing more complex integrations to future iterations or as stretch goals if time permits.
-- Consider conducting a preliminary user needs assessment or survey among lecturers, tutors, and students to gather specific requirements and validate the necessity and usability of the proposed features. This can refine the focus and ensure the development is aligned with actual needs.
-
-P32 - Data acquisition software for next-generation electrophysiology and BCI systems
-Impact Score: 4
-
-Feasibility Score: 3
-
-Scalability Score: 4
-
-Strengths:
-- The project addresses a significant and novel problem in biomedical data acquisition with potential applications in diagnosing neurological and cardiac disorders, as well as brain-computer interfaces.
-- The collaboration with pioneering researchers and the novel use of optrode technology adds credibility and relevance to the project's goals.
-
-Weaknesses:
-- The scope is quite broad, including real-time processing, calibration, noise cancellation, and advanced image processing, which may be overly ambitious for a 10-week project timeframe.
-- The reliance on advanced skills in both Python and C++ and the need for integrating diverse functionalities could pose significant challenges for a team of intermediate-level students.
-
-Suggestions for Improvement:
-- Narrow the project scope to focus on one or two key functionalities, such as developing plugins for the display and calibration of optrode signals. This would make the project more feasible within the given timeframe.
-- Include a more detailed project timeline with specific milestones and deliverables to ensure that students can manage their time effectively and achieve realistic goals.
-
-P33 - Understanding the Privacy Advantages of Backdoor Attacks on Deep Neural Networks
-Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 3
 
-Strengths:
-- Addresses a timely and relevant issue in cybersecurity and machine learning, which can have significant implications for data privacy.
-- Interdisciplinary approach encompassing AI, cybersecurity, and computer vision, providing a comprehensive learning experience for students.
+Strengths: 
+- The project addresses a significant problem with clear real-world application in healthcare, potentially reducing medical errors and improving neonatal care.
+- It incorporates both software and hardware components, providing comprehensive solutions and practical experience for students in systems integration.
 
-Weaknesses:
-- Highly specialized and technical, which might not cater to broader industry needs outside academia and research-specific domains.
-- Requires substantial computational power and resources, such as an NVIDIA GPU system, which might limit accessibility or cause bottlenecks if resources are shared.
+Weaknesses: 
+- The requirement for hardware interfacing could complicate the project, potentially making it more difficult to achieve within a 10-week timeframe.
+- The project may encounter logistical and regulatory challenges in a hospital setting, particularly with integrating the system into existing workflows and ensuring compliance with healthcare standards.
 
 Suggestions for Improvement:
-- Clarify the end goals and practical applications of this project. How can the findings be applied outside a theoretical or academic setting? This could improve the impact score by linking the project to tangible benefits in real-world scenarios.
-- Simplify or focus the scope to ensure that deliverables can be polished within the 10-week timeframe—consider focusing on one type of attack (e.g., model inversion or membership inference) before exploring the other, enabling deeper understanding and better-quality outcomes.
+- Simplify the hardware requirements by initially developing a software-only prototype. Validate the core functionality before adding hardware elements to reduce complexity.
+- Ensure thorough user research and involving healthcare professionals early in the prototype phase to ensure the system is user-friendly and fits seamlessly into existing nursing workflows. This can also help in addressing regulatory concerns early on.
 
+P31 - Modern Team Evaluation System for Courses with Group Assessments
+Impact Score: 3
+
+Feasibility Score: 4
+
+Scalability Score: 3
+
+Strengths:
+- The project addresses a genuine problem in academic group assessments by aiming to improve fairness and reduce administrative load, which is a practical issue.
+- The integration with widely used platforms like GitHub, Jira, and Confluence for automatic data collection can add significant value and improve the accuracy of evaluation.
+
+Weaknesses:
+- Limited potential impact beyond the academic environment at UNSW, reducing its wider societal or industry relevance. It's also not clear how novel the solution is, given that similar tools might already exist or it might be possible to customize existing solutions.
+- The scope and complexity could be challenging for students, especially the aspect of automated data collection from various platforms and the need to ensure secure and seamless integration.
+
+Suggestions for Improvement:
+- Expand the project's scope to include potential applications in industrial training programs or professional project management scenarios, thereby increasing its broader relevance and impact.
+- Add a feature to allow future scalability more smoothly, such as modular integration points for additional collaboration tools or an API that allows other tools to plug into the system. This could enhance both its feasibility and scalability.
+
+P32 - Data acquisition software for next-generation electrophysiology and BCI systems
+Impact Score: 4
+Feasibility Score: 3
+Scalability Score: 4
+
+Strengths:
+- The project addresses a significant problem in the biomedical field, specifically in electrophysiology and brain-computer interfaces, which has the potential for impactful societal and clinical applications.
+- The integration with Open Ephys, a popular open-source data acquisition software, ensures that the plugins can be widely adopted and utilized within the research community.
+
+Weaknesses:
+- The project scope is quite broad and involves multiple complex components such as real-time signal calibration, noise cancellation, image processing, and analytics, which may be difficult to accomplish within the 10-week timeframe.
+- The necessity to develop sophisticated plugins that require expertise in both Python and C++, alongside robust understanding in bioinformatics and real-time data processing, may be overwhelming for a team of students with intermediate skills.
+
+Suggestions for Improvement:
+- Narrow the project's focus to a more manageable subset of tasks, such as developing just the display and signal calibration components first. This would make the project more feasible without compromising the potential impact.
+- Ensure robust planning and time allocation for each task, and possibly seek intermediate milestones for the different components. This will help the team to manage their project more effectively and deliver polished outputs.
+
+P33 - Understanding the Privacy Advantages of Backdoor Attacks on Deep Neural Networks
+Impact Score: 2
+Feasibility Score: 3
+Scalability Score: 2
+
+Strengths:
+- The project explores an intersection of critical areas: AI, cybersecurity, and privacy, which are significant fields in both academia and industry.
+- The outcome could lead to enhanced understanding of safeguarding against privacy attacks on DNNs, a topic of growing importance with the proliferation of AI-based applications.
+
+Weaknesses:
+- The problem addressed, while interesting, is overly specialized and not likely to have a broad impact beyond academic circles, particularly within the outlined scope of the project.
+- The project is highly complex, requiring mastery of advanced topics in AI and cybersecurity, potentially overwhelming for a team of students to complete within a 10-week timeframe.
+
+Suggestions for Improvement:
+- Broaden the scope to include more practical applications and potential real-world implications of the findings. For example, focus on case studies where these attacks have been observed and mitigate these specific scenarios.
+- Simplify the technical requirements by perhaps focusing on one type of privacy attack and one type of backdoor attack, ensuring depth rather than breadth in the study.
 
 P34 - Career Pathway Mapping Tool for Energy Transition: User Interface and Recommendation System
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths: 
-- The project addresses a significant and current problem in the energy sector, which is undergoing a transformation towards decarbonization. This has clear societal and industry relevance.
-- The integration of AI for job matching and skill gap identification can provide personalized and impactful insights for users, making their career transition smoother and more informed.
-
-Weaknesses: 
-- The complexity of developing an AI-powered recommendation system and integrating NLP for CV analysis might be overly ambitious for a team of 6 students to complete and polish within 10 weeks.
-- Dependency on a companion project for backend data structure and job role information adds an additional layer of complexity and potential delay, which could impact the feasibility of the project.
-
-Suggestions for Improvement:
-- Break down the project into smaller, more manageable sub-tasks and clearly define the scope for each 10-week period. This can help ensure that each phase is realistically achievable and can be polished.
-- Consider starting with a simpler version of the recommendation system that uses rule-based matching instead of AI, which can be upgraded in future iterations. This would allow students to focus on creating a robust and scalable framework initially.
-
-P35 - Career Pathway Mapping Tool for Energy Transition: Database Development and Automation
-Impact Score: 3
-Feasibility Score: 3
-Scalability Score: 4
-
 Strengths:
-- The project addresses a relevant and growing need in the energy transition sector, which is increasingly important for tackling climate change.
-- The use of modern technologies such as NLP for job ad analysis and database automation demonstrates technical ambition and relevance to current industry trends.
+- The project addresses a significant and relevant problem in the growing field of energy transition and decarbonization, which is aligned with current global priorities.
+- The integration of AI for job role matching and skill gap analysis can provide valuable insights and make the tool exceptionally useful for users aiming to navigate their careers in the energy sector.
 
 Weaknesses:
-- The problem being addressed, while useful, is moderately impactful and may not lead to transformative academic advancements. Existing solutions in similar domains might be adapted with more careful research.
-- The project scope is quite broad and could be challenging to complete in 10 weeks, given the number of required components like NLP analysis, database management, and automation.
+- The project may be overcomplicated by the inclusion of AI, especially if it hasn't been rigorously proven that a simpler solution wouldn't suffice. Developing and fine-tuning AI models, particularly NLP for CV analysis, can be time-consuming and may lead to potential deadlocks.
+- Relying on a companion project for the backend data structure introduces dependencies that could impact the progress and completion of this project if the other team encounters issues or delays.
 
 Suggestions for Improvement:
-- Narrow down the project scope by focusing on fewer, more achievable components. For example, prioritize the development of the database system and automation first before integrating NLP analysis and web scraping.
-- Increase feasibility by proposing a clear timeline and breakdown of tasks. Ensure that intermediate milestones are set to track progress effectively and maintain focus.
+- Consider a phased approach to the project, where the initial version uses simpler matching algorithms before gradually integrating AI components. This can ensure a functional product within the 10-week timeframe while reserving the option to enhance with AI later.
+- Improve collaboration and communication channels with the team working on the backend database to mitigate risks associated with dependencies. Regular sync-ups, clearly defined interfaces, and fallback strategies should be in place to handle potential integration issues.
 
-P36 - igive: an update to CSE after 50 years
-Impact Score: 3
-Feasibility Score: 4
-Scalability Score: 3
+Overall, while the project has a clear and significant impact and good potential for scalability, its feasibility within the given scope and timeframe needs to be carefully managed to ensure success.
 
-Strengths: 
-- The project addresses a real and existing problem with the current Give system, aiming to reduce the complexity and time required for lecturers to set up and manage automatic marking of programming assignments.
-- The proposal outlines clear and achievable goals, with a structured list of features and improvements that can be feasibly implemented within the specified timeframe.
-
-Weaknesses: 
-- Although the project has a practical significance, its impact on academic advancement is limited. Similar systems already exist, and the proposal does not indicate any novel research contributions or advancements in the field of computer science.
-- Limited scalability beyond the confines of the university's current infrastructure. The proposed system is tailored specifically for UNSW and may face technical and practical barriers when attempting to adapt to other institutions or contexts.
-
-Suggestions for Improvement:
-- To enhance the academic impact, consider incorporating innovative features such as machine learning algorithms for automated code review and feedback, which could provide a more personalized and advanced learning experience for students.
-- Provide a more detailed plan for integration with existing university systems and outline a clear strategy for data migration from the current Give system. This will help ensure a smooth transition and demonstrate the feasibility of implementing the new system at scale in the long term.
-
-P37 - Robocup Home: Creating synthetic image datasets from 3D scanned objects
+P35 - Career Pathway Mapping Tool for Energy Transition: Database Development and Automation
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- Addresses a significant challenge in the field of robotics and machine learning by automating the creation of diverse training datasets, which is crucial for improving object detection algorithms.
-- The project leverages multiple advanced technologies, including deep learning, computer vision, and synthetic data generation, providing a rich learning experience for the students.
+- The project addresses a significant and timely issue in the evolving energy sector, focusing on career pathway mapping for energy transition and decarbonization.
+- The project has a clearly defined scope and comprehensive goals, including automation, database development, and potential real-world application.
 
 Weaknesses:
-- The project depends heavily on a high level of integration between hardware (RGB-D cameras, turntables) and software, which may be difficult to achieve and might require specialized knowledge not readily available within a 10-week timeframe.
-- The reliance on existing tools like NVIDIA Omniverse for synthetic image creation could present challenges if the tool proves incompatible or difficult to integrate with the custom-developed systems.
+- The inclusion of multiple advanced technologies such as NLP, web scraping, and database management in a short timeframe makes the project's feasibility questionable.
+- The requirement for advanced NLP techniques and auto-scraping capabilities might be overly ambitious for a 10-week project by undergraduate students.
 
 Suggestions for Improvement:
-- Break down the project into more specific, manageable tasks to ensure each component is given adequate attention and to mitigate the risk of integration issues. For instance, separate the hardware setup and data acquisition from the synthetic data generation and algorithm training.
-- To ensure the feasibility of completing the project within the given timeframe, consider identifying simpler, alternative methods for some of the more challenging tasks, such as using pre-existing datasets or simplifying the object segmentation process if technical barriers arise.
+- Narrow the scope of the project to focus on fewer but more achievable objectives, such as developing the database and basic NLP analysis, ensuring it can be realistically completed within the timeframe.
+- Provide a clear roadmap and timeline for the project, breaking down tasks to ensure that intermediate milestones are met without overwhelming the team. Additionally, focus on ensuring the foundational components are solid before adding more complex features like auto-scraping.
+
+The project proposal has substantial merit concerning its impact and scalability potential, but the feasibility given the current timeframe and complexity could be improved.
+
+P36 - igive: an update to CSE after 50 years
+Impact Score: 3
+Feasibility Score: 3
+Scalability Score: 3
+
+Strengths: 
+- The project addresses an existing pain point by providing a modernized version of the "Give" system, potentially making lecturers' lives easier.
+- Includes the essential functionality expected from a grading system with possibilities for practical implementation within UNSW.
+
+Weaknesses: 
+- The problem addressed is specific to UNSW, limiting the broader academic or industry impact.
+- Project complexity might be underestimated, especially regarding integration with existing systems like the Student Management System (SMS), which can be challenging and time-consuming.
+
+Suggestions for Improvement:
+- Conduct a rigorous feasibility study to break down tasks and ensure the scope is manageable within 10 weeks. Clearly identify which functionalities are core and which are stretch goals.
+- Evaluate existing off-the-shelf solutions that could be customized to meet the requirements. This approach might simplify the project and result in a more polished final product.
+
+P37 - Robocup Home: Creating synthetic image datasets from 3D scanned objects
+Impact Score: 4
+Feasibility Score: 3
+Scalability Score: 3
+
+Strengths:
+- The project addresses a significant problem in the domain of robotics and computer vision, specifically related to the RoboCup competition. Automating the generation of synthetic datasets for training DNNs can save considerable manual effort and time.
+- The project provides hands-on experience in a range of advanced fields including software development, artificial intelligence, computer vision, and synthetic data generation, which are highly relevant and beneficial for computer science students.
+
+Weaknesses:
+- The scope of developing a tool that involves setting up hardware (RGB-D camera, turntable) and software components (segmentation, synthetic image generation, dataset writing) in just 10 weeks might be overly ambitious, leading to potential challenges in execution and completion.
+- The requirement to write the software specifically in Python running on Linux limits flexibility. Moreover, acquiring and integrating various technologies (OpenCV, PyQT, YOLO, possibly NVIDIA Omniverse) could introduce complex dependencies and integration issues.
+
+Suggestions for Improvement:
+- Narrow the scope of the project to make it more feasible within the 10-week timeframe. For instance, splitting the project into phases with clear achievable milestones (e.g., first focus on automatic scanning and segmentation, and then move to synthetic image generation) can help manage efforts better.
+- Consider leveraging existing tools and frameworks more extensively to reduce the amount of custom development required. For instance, if NVIDIA Omniverse (or a similar tool) already provides substantial functionality for synthetic image generation, integrate that as opposed to creating new solutions from scratch.
 
 P38 - EcoM Platform for Sustainable Investment
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths: 
-- The EcoM Platform addresses a significant and timely issue—sustainable investment and ESG reporting. This has clear relevance and importance given global initiatives like the Paris Agreement and increasing corporate focus on sustainability.
-- The project incorporates advanced technical components like big data analytics, web application development, and microservices/API solutions, providing a comprehensive learning experience for the students.
+Strengths:
+- The project addresses a significant and contemporary issue with increasing importance globally: sustainable investment and ESG reporting.
+- The project provides multiple functionalities such as ESG performance analysis, report generation, and comparison which are valuable for corporations and investors.
 
-Weaknesses: 
-- The project assumes access to and integration with the Eurofidai dataset and other datasets, which might be overly optimistic within a 10-week timeframe. There is a risk of encountering data availability or integration issues which could significantly hinder progress.
-- The scope of the project, including various MVP and advanced tasks, might be too broad for a team of six within the given time. Tasks like chatbot development and adding innovative features could dilute focus from core functionalities.
+Weaknesses:
+- The requirement to integrate multiple datasets, including real-time data, could complicate development and may pose significant technical challenges.
+- The necessity to develop a chatbot and introduce two innovative features as advanced tasks may be overly ambitious given the tight 10-week timeline.
 
 Suggestions for Improvement:
-- Prioritize core functionalities that are critical for achieving the MVP, such as ESG score calculation, report generation, and user interface enhancements. Consider making advanced tasks like the chatbot and innovative features optional unless the core goals are met.
-- Clarify data access and integration plans early on. Ensure that the team secures necessary permissions and access to the required datasets and sets up a streamlined data integration strategy to avoid unforeseen hurdles. Focus on integrating additional datasets or real-time data once the core platform is stable.
-
-Overall, the project has significant potential and importance; however, its feasibility could be improved by narrowing the focus and addressing data integration risks at an early stage.
+- Break down the advanced tasks like the chatbot and innovative features into smaller, more manageable milestones that could be pursued based on progress with core functionalities.
+- Focus on initial integration with existing datasets and ensure robust data handling before attempting real-time data integration, which could be considered as a potential future enhancement.
 
 P39 - Sustainable Investment Data Modeling Microservice for Clarity AI ESG Risk Raw Data on Corporations
 Impact Score: 4
@@ -674,435 +674,427 @@ Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant and timely issue: sustainable investment. The ability to model ESG performance can greatly benefit investors who are looking to make environmentally and socially responsible financial decisions.
-- The project involves the development of modular microservices and APIs, which is a modern and industry-relevant approach that can be applied to a range of applications beyond the initial scope.
+- The project addresses a significant and current issue, namely sustainable investment and ESG (Environmental, Social, Governance) risk modeling, a field that has gained considerable traction in both the financial and broader societal contexts.
+- The project aligns well with industry needs, not only promoting sustainable investment strategies but also enhancing transparency and enabling investors to make informed decisions.
 
 Weaknesses:
-- The scope is quite broad, encompassing multiple aspects such as microservice/API development, big data analytics, and visualization. This complexity might be overwhelming for a 10-week project, particularly if the team has only intermediate skills.
-- The dependency on Eurofidai datasets and third-party integration might pose significant challenges in terms of data quality, accessibility, and integration testing, which are not trivial to overcome within the given timeframe.
+- The feasibility of developing a comprehensive set of microservices, complete with robust error handling, secure authentication, real-time data updates, and comprehensive documentation, within a 10-week timeframe could be a significant challenge for a team of students.
+- The inclusion of "innovative features" without specifying or validating their necessity could lead to overcomplicated project scope and potential difficulties in execution.
 
 Suggestions for Improvement:
-- Narrow the focus of the project to a more specific aspect, such as developing a subset of the planned microservices or focusing on building a robust ESG performance model first. This will help in ensuring that the project is achievable and polished.
-- Ensure thorough risk management by identifying potential data-related and integration challenges early on. This includes securing access to all necessary datasets prior to starting and setting up mock integrations to test the system even if the actual third-party platforms are not immediately available.
-- Incorporate iterative development with regular milestones to review progress and adjust the scope or approach as necessary. This will help manage the complexity and ensure that essential components are fully developed and functioning by the end of the project.
+- Break down the project into more clearly defined, smaller tasks with realistic milestones. This would help ensure that the core functionalities are achievable within the given timeframe and that the project remains on track.
+- Prioritize the development of a functioning MVP (Minimum Viable Product) before incorporating advanced tasks such as customizable models and innovative features. This ensures that the essential components are solid and functional before adding complexity.
 
 P40 - Converting datasets into knowledge graphs
 Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths:
-- The project addresses an issue relevant to data visualization and querying, which can benefit non-technical users significantly.
-- The use of knowledge graphs for better data representation is a growing area of interest, particularly in the fields of big data analytics and AI, providing a solid technical foundation.
+Strengths: 
+- The project aims to simplify the querying and visualization of complex datasets, which has a moderate utility in various industries such as data analysis, business intelligence, and research.
+- The use of knowledge graphs can enhance the user experience by providing a more intuitive and accessible way to interact with data compared to traditional methods.
 
-Weaknesses:
-- The project could be perceived as reinventing the wheel; existing tools and frameworks might already offer similar functionalities, which limits its academic novelty and innovation.
-- Given the complexity of knowledge graph creation and the need for accurate data relationships, the project might require advanced data modeling and domain-specific knowledge that the students might not readily possess.
+Weaknesses: 
+- The problem being addressed is not particularly novel, and there are several existing tools and libraries available for converting datasets into knowledge graphs. This reduces the overall impact and novelty of the project.
+- The project scope may be too broad for a 10-week timeline, requiring significant effort to develop a user-friendly application while ensuring the accuracy and usability of the generated knowledge graphs.
 
 Suggestions for Improvement:
-- To increase the project's impact and academic contribution, the team could focus on a specific industry or type of dataset where existing solutions are inadequate, thereby demonstrating a clear gap that their tool aims to fill.
-- Incorporate a component of user testing and feedback loop within the project timeline. This will ensure that the final application not only works technically but also meets the usability needs of non-technical users effectively. 
-
-Overall, the project has potential but would benefit from a more focused scope and a clear demonstration of its unique contributions to the field.
+- Narrow the focus of the project to a specific type of dataset or industry, such as healthcare data or financial reports. This can help the team manage the scope more effectively and provide clearer value to potential users.
+- Consider integrating existing open-source tools and libraries for knowledge graph generation and visualization, allowing the team to focus more on the user interface and experience aspects of the application. This approach can help ensure the project is both feasible and impactful within the given timeframe.
 
 P41 - From Rubble to Renewal: Tracking CO2 Cuts in Demolition Waste
 Impact Score: 3
+
 Feasibility Score: 4
+
+Scalability Score: 3
+
+Strengths: 
+- The project addresses a contemporary environmental issue, helping demolition companies quantify their CO2 reduction efforts, which is increasingly important in today's push towards sustainability.
+- The end product has clear and practical deliverables: a web-based tool, complete with source code, documentation, and a user guide.
+
+Weaknesses:
+- The problem being addressed, while moderately impactful, is not highly novel or groundbreaking. The transition from an Excel-based solution to a web-based tool is a relatively incremental improvement rather than a transformative innovation.
+- The project's impact and scalability are somewhat limited by the specificity of its target audience—primarily demolition companies. This niche focus restricts potential broad-based societal or industrial impact.
+
+Suggestions for Improvement:
+- Broaden the scope of the project to include other industries where material recycling and CO2 reduction tracking are relevant. This could enhance both the impact and scalability of the project, making it applicable to a larger audience.
+- Consider integrating additional features that leverage modern technologies, such as machine learning for better predictive analysis, but only after rigorously evaluating whether such technologies add significant value and can be feasibly integrated within the project's timeline and the team's skillset.
+
+The proposed project is well-defined and achievable, but its impact is somewhat limited by its specific application. Additional features or expanded scope could provide greater value and potential scalability.
+
+P42 - EyeNutrition: A Dietary Tracking App for Optometry Patients to Improve Eye Health
+Impact Score: 3
+Feasibility Score: 3
 Scalability Score: 3
 
 Strengths:
-- The project addresses an environmentally significant problem by focusing on the reduction of CO2 through better management and recycling of demolition waste.
-- The project scope and requirements are clear, and the task of transforming an existing Excel-based solution into a web-based tool is grounded in practical skill sets that the students can realistically acquire and apply.
+- The project addresses a moderate and specific issue with potential benefits for a demographically significant portion of the population (those at risk for AMD).
+- Collaboration with experts in optometry and dietetics ensures that the app will provide evidence-based nutritional recommendations, enhancing its credibility.
 
 Weaknesses:
-- The underlying system and metrics already exist in Excel, meaning the academic advancement component is minimal. The project primarily involves a technical migration rather than the creation of novel algorithms or systems.
-- The scalability of the system hinges on the accurate and reliable input of data by users, which can be a significant barrier if users are not diligent or if the system lacks mechanisms to validate data input.
+- The problem, while noteworthy, may not justify a dedicated app as other existing dietary tracking apps could potentially be modified to include eye-health-specific modules.
+- The project scope includes a wide range of functionalities (dietary logging, health scoring, personalized recommendations, UI/UX design, data security) that might be challenging to implement effectively within a 10-week timeframe for 6 students, potentially leading to an incomplete or unpolished final product.
 
 Suggestions for Improvement:
-- Incorporate additional features that go beyond the existing Excel functionalities, such as predictive analytics for future waste reduction or integration with other environmental reporting tools, to enhance both the impact and academic contribution of the project.
-- Develop a robust data validation and error-checking framework within the web application to ensure the accuracy and reliability of the CO2 reduction calculations, thereby improving the credibility and scalability of the tool.
+- Narrow the project focus by starting with a simpler MVP (Minimum Viable Product) that could later be expanded. For example, initially develop the dietary logging and eye health scoring features before adding personalized recommendations and a referral system.
+- Consider leveraging existing platforms or APIs for dietary databases and health tracking instead of building everything from scratch, which could reduce development time significantly.
 
-P42 - EyeNutrition: A Dietary Tracking App for Optometry Patients to Improve Eye Health
+
+P43 - Multimodal Retrieval-Augmented Generation (RAG) System for Traffic Engineering
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths:
-- Addresses a significant nutritional gap that has wide-ranging implications for preventing age-related macular degeneration (AMD).
-- Well-defined interdisciplinary collaboration with experts in optometry and dietetics to ensure evidence-based recommendations.
-
-Weaknesses:
-- The complexity of developing and validating an algorithm that accurately evaluates dietary intake and generates a reliable "eye health score" within 10 weeks might be underestimated.
-- Potential barriers in user adoption and consistent usage, especially among older adults who may not be tech-savvy.
-
-Suggestions for Improvement:
-- Consider simplifying the initial scope of the project to focus on developing a functional prototype that includes basic dietary logging and a simple, preliminary version of the health score algorithm. This would make the project more feasible within the 10-week timeframe and allow for iterative improvement.
-- Incorporate usability testing with the target demographic (older adults) early in the development process to ensure the app's design is intuitive and accessible. User feedback can then be used to make necessary adjustments before the final version.
-
-P43 - Multimodal Retrieval-Augmented Generation (RAG) System for Traffic Engineering
-Impact Score: 4
-Feasibility Score: 2
-Scalability Score: 4
-
 Strengths: 
-- Significant societal and industry impact: The project addresses traffic management and urban planning, which are important issues with widespread societal and economic benefits.
-- Comprehensive data integration: The project aims to integrate diverse data types (text, sensor data, geospatial information, video feeds), which can generate richer and more contextually relevant insights for traffic engineers.
+- The project addresses a significant and pressing issue in urban traffic management, with clear societal and practical benefits.
+- Integrating multiple forms of data (text, sensor, geospatial, visual) could provide a comprehensive solution that is highly valuable for traffic engineers and urban planners.
 
 Weaknesses: 
-- Feasibility challenges: The scope is extensive for a 10-week project, especially considering the need for real-time processing, multimodal data integration, and an intuitive user interface. There is a high risk of the project being incomplete or not polished.
-- Technical complexity: Handling and integrating multiple data types in real-time requires advanced skills in machine learning, data engineering, and systems design. The project may be too ambitious given the students' likely experience levels.
+- The project is highly ambitious for a 10-week timeframe, potentially requiring more time to achieve a fully functional and polished system.
+- There's a notable reliance on AI methodologies without adequate preliminary proof that simpler non-AI methods cannot achieve the desired outcomes, which could complicate the development unnecessarily.
 
 Suggestions for Improvement:
-- Narrow the scope: Focus on a smaller subset of functionalities that are most critical for demonstrating the system's potential, such as prioritizing one or two data types (e.g., text-based reports and sensor data) and ensuring robust performance.
-- Incremental development plan: Break down the project into smaller, iterative milestones to allow for more manageable progress and frequent evaluations. This can help in identifying and addressing technical challenges early on, increasing the likelihood of a functional prototype.
+- Narrow down the scope of the project. Consider initially focusing on integrating fewer types of data (e.g., text and sensor data only) and ensuring robust functionality before expanding to include more data forms.
+- Validate the necessity of the AI components early in the project. Conduct a feasibility study or proof-of-concept to determine if the same objectives can be achieved more straightforwardly without resorting to AI.
 
-This evaluation aims to provide a fair and constructive assessment by highlighting both the ambitions and potential pitfalls of the proposed project. By focusing on a clearer, more achievable scope and setting realistic milestones, the project can significantly improve its chances of success.
+In summary, while this project has a substantial potential impact and scalability, its feasibility within a short timeframe is questionable. Simplifying the project's initial scope and rigorously justifying the use of complex methodologies could significantly improve its feasibility and overall success.
 
 P44 - Where are your feet?
 Impact Score: 4
 Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a significant issue in human movement assessment, which has wide applications in healthcare, sports science, and VR.
-- It incorporates current, relevant technologies like computer vision, AI, and VR, making it both contemporary and versatile.
-
-Weaknesses:
-- The feasibility is questionable for a 10-week timeframe given the complexity of real-time human pose estimation and VR integration.
-- The project may require sophisticated hardware and deep technical knowledge, which could be a barrier for a diverse team of students.
-
-Suggestions for Improvement:
-- Consider narrowing the scope to focus initially on achieving reliable foot tracking using existing tools like MediaPipe, before attempting real-time VR integration.
-- Enhance feasibility by providing pre-trained AI models and modularizing tasks so that each team member can focus on a specific aspect, such as video processing, networking, and visualization.
-
-P45 - AI-driven medical research networks: connecting experts for collaborative discovery
-Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
 Strengths:
-- The project addresses a significant problem in the research community, specifically the difficulty of identifying and connecting with potential collaborators across diverse disciplines, which has the potential for a clear and important impact.
-- Utilizes advanced AI techniques such as Retrieval Augmented Generation (RAG) and GraphRAG, indicating a strong commitment to leveraging cutting-edge technology for solving real-world problems.
+- The project addresses a significant problem in the realm of human movement assessment and its applications in virtual reality, which has important implications for both healthcare (e.g., gait analysis by physiotherapists) and the immersive experience in VR.
+- Utilization of existing tools like MediaPipe and OpenCV suggests the students can build on well-established, high-quality frameworks to achieve their goals.
 
 Weaknesses:
-- The complexity and scope of integrating datasets, building a comprehensive knowledge graph, and implementing sophisticated AI models are high, making it challenging to achieve a polished and fully functional prototype within the 10-week timeframe.
-- The project assumes an intermediate-to-advanced understanding of AI/ML, NLP, and web development, which may not be realistically achievable for all team members within the given timeframe, even with concerted effort.
+- The project scope might be overly ambitious for a 10-week duration, particularly the real-time tracking and 3D position extraction part which requires sophisticated integration and testing.
+- Reliance on AI and machine learning models for pose estimation without a clear explanation of why simpler algorithmic approaches might not be suitable implies a risk of overcomplication.
 
 Suggestions for Improvement:
-- Narrow the focus of the project to a more manageable scope. For instance, initially limit the datasets to a smaller, well-defined subset and focus on developing a minimally viable product (MVP) that can be expanded later. This can help ensure that the project remains realistic and achievable within the given timeframe.
-- Establish clear milestones and allocate sufficient time for each critical component, such as data integration, AI model implementation, and user interface development. Incorporate buffer periods for unanticipated challenges, and have contingency plans in place to address potential technical roadblocks quickly.
+- Narrow the scope to ensure feasibility. For example, the group could start with achieving accurate 2D tracking before moving on to real-time 3D visualization. Breaking the project into more manageable milestones will help ensure progress.
+- Provide a more detailed risk assessment and mitigation plan, especially concerning the AI model training component. Evaluating and possibly pre-selecting existing pre-trained models can alleviate some feasibility concerns and provide a clearer path to project completion.
 
-
-P46 - Web Platform for Project Contests
+P45 - AI-driven medical research networks: connecting experts for collaborative discovery
 Impact Score: 3
-Feasibility Score: 4
+Feasibility Score: 2
 Scalability Score: 4
 
 Strengths: 
-- The project addresses a clear need for efficient management of project contests, which has the potential to create an environment for creativity and innovation.
-- The project proposal is well-defined with robust functional requirements, including user and profile management, contest management, and diverse roles which demonstrate a comprehensive understanding of the problem space and the necessary solution components.
+- The project addresses the real-world challenge of interdisciplinary collaboration in medical research, which is increasingly important for solving complex problems.
+- Utilizes advanced AI techniques (RAG and GraphRAG) which can provide significant academic learning and technological development for the students involved.
 
-Weaknesses: 
-- The project aims for a broad feature set within a limited 10-week timeframe, which may lead to scope creep or incomplete features, particularly if students encounter unforeseen technical challenges.
-- The academic advancement potential of this project appears moderate, as similar solutions exist and the innovation primarily lies in implementation rather than novel research contributions or groundbreaking advancements.
+Weaknesses:
+- The project is overly ambitious for a 10-week timeframe, especially given the complexity involved in implementing and integrating AI models, constructing knowledge graphs, and building a comprehensive user interface.
+- The proposal relies heavily on the assumption that RAG and GraphRAG models will seamlessly provide meaningful insights and recommendations, which may not be the case without rigorous testing and validation.
 
 Suggestions for Improvement:
-- Focus on a minimum viable product (MVP) that prioritizes the most critical and impactful features. This would help manage the scope and ensure a more polished, functional product upon completion. For example, initial versions could focus more on contest creation and management and less on advanced analytics or reporting.
-- Encourage deeper integration of emerging technologies or innovative UX/UI designs that could set the project apart from existing solutions and offer a more significant academic contribution. This could involve exploring machine learning for project evaluation or adding unique social features for enhanced participant engagement.
+- Narrow down the scope of the project to ensure it is more manageable within the given timeframe. For example, focus on building a smaller scale prototype with limited datasets and a simpler user interface.
+- Prioritize the implementation of core functionalities first (e.g., basic dataset integration and a simplistic recommendation engine) and then consider adding more sophisticated features as time allows. Focus on ensuring that the fundamental components work effectively before expanding.
 
-P47 - Web Platform for Connecting Professionals and Projects
+P46 - Web Platform for Project Contests
 Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 3
 
 Strengths:
-- The project aims to create a platform that can potentially bridge gaps between companies and professionals, which can be beneficial for both parties.
-- The project covers a broad range of skills that students can apply and develop, including web application development, UI/UX design, and Agile methodology.
+- The project addresses a fundamental need in the context of project contests by facilitating organization, submission, evaluation, and communication. This directly impacts educational institutions and potentially other organizations that host similar contests.
+- The range of requirements and features outlined, such as user profile management, judging processes, and analytics, suggests a comprehensive solution that, if executed well, could be quite valuable.
 
 Weaknesses:
-- The problem being solved is not particularly novel, and similar platforms already exist (e.g., LinkedIn, Upwork). This limits the potential academic impact and innovation.
-- The project requirements are extensive and could be challenging to implement and polish within a 10-week timeframe, especially for a team with intermediate skills.
+- The problem being addressed, while reasonable, is not particularly novel. Similar platforms exist, and many elements could potentially be managed through existing systems or with minor customizations.
+- The outlined scope is quite broad, involving significant development efforts on both the front end and back end, as well as requiring knowledge in various areas such as microservices, CI/CD pipelines, and secure coding practices. This breadth could take a considerable amount of time, potentially straining the feasibility within a 10-week period.
 
 Suggestions for Improvement:
-- Focus on a unique feature or niche that differentiates the platform from existing solutions. For example, target a specific industry or integrate advanced technologies like AI for matching professionals with projects.
-- Prioritize core functionalities that are essential for the project to work and ensure that they are well-implemented. Additional features can be planned for later stages if time permits. Implementing a minimum viable product (MVP) approach could be beneficial.
+- Narrow the project scope to ensure feasibility. Focus on developing a minimum viable product (MVP) that includes basic functionalities such as contest creation, project submission, and evaluation. Additional features like analytics or full mobile support can be considered for future iterations.
+- Instead of building all features from scratch, investigate existing platforms or open-source solutions that can be customized. This approach will save time and allow the team to focus on unique aspects that could differentiate their project from existing solutions.
 
+P47 - Web Platform for Connecting Professionals and Projects
+Impact Score: 3
+Feasibility Score: 4
+Scalability Score: 3
+
+Strengths: 
+- The project aims to solve a common problem of connecting professionals with project opportunities, which can have moderate impact both in academic and industry settings.
+- The scope and requirements are clearly defined, covering all necessary functionalities for both company and professional users, which provides a solid framework for development.
+
+Weaknesses:
+- The problem being addressed is not novel; there are already several established platforms (e.g., LinkedIn, Upwork) that serve similar purposes. This limits the uniqueness and potential transformative impact of the project.
+- The proposal does not include a thorough risk analysis or mitigation strategies, which could be critical given the short 10-week timeline and the intended functionalities.
+
+Suggestions for Improvement:
+- To enhance the impact, the project could incorporate a unique feature or approach that offers a distinct advantage over existing solutions. For example, integrating advanced matching algorithms based on user skills and project requirements could provide added value.
+- Include a detailed project timeline with milestones and risk management strategies. This will help in identifying potential bottlenecks early and ensure the project stays on track.
 
 P48 - Helping 10 million people with Parkinson's disease walk to the beat of music
 Impact Score: 4
-Feasibility Score: 4
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a significant problem by aiming to improve the quality of life for people with Parkinson's disease through enhanced mobility, which has a clear societal impact.
-- The project builds on an existing, clinically-backed product, increasing the likelihood of real-world application and adoption.
-
-Weaknesses: 
-- The detailed academic contribution may be limited due to reliance on pre-existing tools and solutions, suggesting that the novelty in technical approach may not be groundbreaking.
-- Success depends heavily on effective user feedback integration and adaptability, which could be challenging within the 10-week timeframe.
-
-Suggestions for Improvement:
-- To enhance the academic impact, ensure that the project incorporates novel algorithms or approaches that could be documented and published, rather than just extending existing functionality.
-- Plan an interim review to identify and mitigate potential risks in user feedback integration and hardware collaboration, ensuring timely resolving of any major challenges before the end of the project.
-
-P49 - Emotion Recognition Software
-Impact Score: 3
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project addresses an increasingly relevant topic in Human-Computer Interaction and has the potential to improve user experiences in various applications.
-- The integration of multimodal data from face, audio, and physiology is a solid foundation for a comprehensive emotion recognition system, which can be valuable in multiple domains such as mental health, customer service, and entertainment.
-
-Weaknesses: 
-- The project relies on existing algorithms developed by the research group or off-the-shelf solutions, which may limit the academic novelty and breakthrough potential. Essentially, it risks replicating existing capabilities.
-- Synchronizing data from multiple hardware sources (camera, microphone, smartwatch) can be technically challenging and may stretch the students' capabilities within the 10-week timeframe, potentially leaving the project incomplete or poorly polished.
-
-Suggestions for Improvement:
-- Consider narrowing the scope to focus on just one or two modalities initially, such as facial expressions and audio, and aim to create a robust and thoroughly tested solution for these datasets. This focused approach might be more manageable within the given timeframe and can still offer valuable findings.
-- Incorporate a component that advances the existing algorithms or explores a novel aspect of emotion recognition that has not been extensively studied. For instance, investigating the real-time adaptation of emotion recognition models to individual users could add significant academic value and impact.
-
-By refining the scope and enhancing the academic contribution, the project could achieve better scores across all criteria.
-
-P50 - A Platform for Melody Mentoring
-Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a real-world issue, offering a structured platform for people wanting to learn musical instruments, which could attract a considerable number of users if properly executed.
-- The use of advanced technologies like AWS, React Native, and AI models provides a contemporary learning experience and enhances the overall functionality of the platform. 
+- The project addresses a significant and impactful problem related to Parkinson's disease, which affects millions of people globally.
+- The project has a solid foundation, leveraging an existing app that has already been clinically tested and is actively used by thousands, ensuring real-world applicability and relevance.
 
 Weaknesses:
-- The problem being addressed, while significant, lacks a critical impact for academic advancement, as various existing platforms already offer similar functionalities.
-- The scope and required knowledge for the project may be overly ambitious for a team of 6 students to complete in a 10-week timeframe, especially concerning the deep integration of AI and ML models, which can be time-consuming to develop and fine-tune.
+- The project could potentially be overcomplicated with multiple new features being proposed. This may detract from achieving a polished and fully functional implementation within the given 10-week timeframe.
+- The requirement of connecting to a new life-fit stimulation device introduces additional complexity, including hardware integration, which may stretch the capabilities and time constraints of the student team.
 
 Suggestions for Improvement:
-- Narrow down the project scope to focus on a few core features. For example, initially, limit the AI functionality to basic audio analysis before expanding to more complex feedback mechanisms. This can make the project more manageable and achievable within the given timeframe.
-- Consider leveraging more off-the-shelf solutions for some of the functionalities (like using pre-built authentication systems or simplified user management tools) to leave room and resources for more innovative components that have the potential for academic contributions.
+- Narrow the focus of the project to the most critical feature, such as the "walking to the beat of music" functionality. This could ensure a more polished and functional deliverable within the project timeline.
+- Break down the project into more manageable milestones with clearly defined objectives and deliverables. This will help maintain focus and ensure progress is being made continuously and measurably.
+
+
+P49 - Emotion Recognition Software
+Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
+
+Strengths:
+- The project addresses a moderately significant problem with potential applications in areas such as mental health, customer service, and human-computer interaction.
+- The availability of established algorithms for emotion recognition suggests a solid foundation for the technical aspects of the project.
+
+Weaknesses:
+- The project scope, encompassing multimodal data collection and real-time emotion recognition, is ambitious and likely to be too complex for a 10-week timeframe.
+- The necessity of integrating hardware APIs for cameras, microphones, and smartwatches adds layers of difficulty that may strain the project's feasibility.
+
+Suggestions for Improvement:
+- Narrow the scope of the project to focus on one or two modalities of data collection (e.g., only facial expressions and audio) to enhance feasibility.
+- Prioritize creating a robust data synchronization module and a basic user interface before advancing to more complex tasks like real-time emotion recognition. This phased approach can help manage the scope and ensure deliverables within the timeframe.
+
+P50 - A Platform for Melody Mentoring
+Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
+
+Strengths:
+- The project addresses a real-world need related to learning and mastering musical instruments, which can benefit a wide range of users, from beginners to experienced musicians.
+- The platform aims to integrate advanced technologies such as large language models, audio analysis, and microservice architecture, demonstrating a forward-thinking approach to software development.
+
+Weaknesses:
+- The requirement to use AI and large language models without rigorous justification appears to overcomplicate the project. It poses the risk of failing to meet project goals due to the complexity associated with implementing these technologies effectively within a short time frame.
+- The scope of work outlined is quite extensive, including various advanced features (video uploads, audio analysis, secure handling of PII, etc.) which might be overly ambitious for a group of 6 students to complete in just 10 weeks.
+
+Suggestions for Improvement:
+- Narrow the scope of the project by focusing on core features that can be realistically completed within the 10-week timeframe. For example, prioritize user authentication, video uploads, and basic feedback mechanisms while postponing advanced AI features for future iterations.
+- Provide a more detailed and phased implementation plan, breaking down complex tasks into manageable sub-tasks to ensure that the project development proceeds methodically and within scope.
+
+This assessment is aimed to be fair yet strict, balancing the potential of the project with the pragmatic constraints within which the students must work.
 
 P51 - Event Aggregation and Management Web Platform
 Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
-Strengths:
-- The project addresses a commonly experienced issue of fragmented event information, providing a comprehensive solution that can enhance user experience and event organization.
-- The project includes a solid foundation with already implemented features such as user authentication and profile management, which offers a head start and reduces the overall workload.
-
-Weaknesses:
-- The problem of event information aggregation, while useful, is not particularly novel and could potentially be addressed with existing off-the-shelf solutions, limiting the project's academic advancement impact.
-- The extensive list of required skills and technologies (e.g., HTML, CSS, JavaScript, React, Python/Node.js, MySQL/MongoDB, AWS, Docker/Kubernetes, CI/CD, RESTful APIs, GraphQL, OAuth, JWT, SSL/TLS, Scrum) might be overwhelming for a team to master and implement thoroughly within a 10-week timeframe.
-
-Suggestions for Improvement:
-- Narrow the scope of the project to focus on a smaller subset of core functionalities initially, such as refining event aggregation and search capabilities. This approach would make the project more manageable and ensure the final product is polished.
-- Incorporate a component of innovative data analysis or machine learning to predict event popularity or user interest. This could elevate the project's novelty and academic contribution, making it more impactful.
-
-P52 - Course Insights and Skill Alignment Platform
-Impact Score: 3
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths:
-- The project addresses a practical need by facilitating skill alignment between students and academic projects, which can be beneficial for both academic institutions and students.
-- The use of LLM-supported modules for summarizing course content and performing skill gap analysis is innovative and leverages advanced AI technologies.
+Strengths: 
+- The project addresses a real and moderate issue: the fragmentation of event information, which has clear benefits for user experience and event organization.
+- The project has a well-defined scope and utilizes modern technologies like microservices, CI/CD, and responsive web design, making it technically robust and relevant to industry practices.
 
 Weaknesses: 
-- The problem being solved is more of an optimization issue rather than a critical or highly novel problem. Similar platforms or less advanced solutions likely already exist, reducing the academic impact.
-- The scope of required features and integrations (e.g., LLM, robust data management, UI/UX considerations, and extensive administrative functionalities) may be overly ambitious for a team of six students to complete in 10 weeks.
+- The problem being addressed is not highly novel, and similar solutions already exist in the market, which limits its potential impact.
+- The requirement for various advanced technologies (microservices, Kubernetes, GraphQL, Docker) may be overwhelming for students to integrate, potentially hindering project completion within the given timeframe.
 
 Suggestions for Improvement:
-- Narrow the project scope to core functionalities that can be realistically achieved within the timeframe, such as focusing initially on course data aggregation and basic skill alignment without extensive administrative controls and project management features.
-- Emphasize creating a modular and extensible architecture to facilitate future enhancements and integrations, ensuring that the platform can be scaled and adapted more easily in subsequent phases of development.
+- Narrow the scope by focusing on core functionalities like event aggregation, search, and calendar management. Ensure these are well-implemented before considering additional features like recommendation systems.
+- Consider simplifying the technical stack to balance feasibility and effectiveness. For example, focus on proven, simpler alternatives before adopting complex architectures like microservices and Kubernetes.
 
-By focusing on these areas, the project can not only become more feasible but also provide a solid foundation for future development and scaling.
+P52 - Course Insights and Skill Alignment Platform
+Impact Score: 4
+Feasibility Score: 2
+Scalability Score: 3
+
+Strengths:
+- Addresses a significant problem: aligning students' skills with course requirements and project needs can have a substantial academic and practical impact.
+- Good potential for meaningful academic advancement through the successful application of Data Analytics and Natural Language Processing (NLP).
+
+Weaknesses:
+- The project appears overcomplicated by relying heavily on AI/LLM without demonstrating the necessity of this approach.
+- Highly ambitious scope within a tight 10-week timeframe; achieving a polished, functional product will be challenging.
+
+Suggestions for Improvement:
+- Simplify the project scope to focus on core functionalities that don’t overly rely on AI/LLM from the start. Validate the feasibility of simpler approaches before adding complex technologies.
+- Break down the project into smaller, more manageable components, and establish clear, achievable milestones. Ensure that each phase of development can stand on its own without complete dependency on subsequent phases.
+
 
 P53 - Programmatic Assessment Manager
 Impact Score: 3
 Feasibility Score: 4
-Scalability Score: 3
-
-Strengths:
-- The project addresses a clear need within UNSW for a programmatic assessment tool that helps in mapping assessments to learning outcomes, potentially benefiting both students and faculty by providing insight into students' progress.
-- The skills required (database management, web development, and data wrangling) are well-aligned with what computer science students could reasonably acquire or have some prior experience in, making the project suitable for a capstone project.
-
-Weaknesses:
-- The project may not be highly novel in an academic sense, as similar tools for programmatic assessment likely exist in other institutions or as commercial products. This limits its impact on academic advancement and the potential for publication.
-- Data extraction from sources like ECLIPS could pose significant technical challenges, particularly if the data is not uniformly structured or well-documented. This could impact the project's feasibility if not managed carefully.
-
-Suggestions for Improvement:
-- To increase the academic impact, consider incorporating innovative features such as machine learning algorithms for predictive analytics on student performance or integrating advanced data visualization techniques to provide deeper insights.
-- Enhance the scalability aspect by ensuring the architecture is modular and can be easily integrated with other university systems. Possible future expansion could include the integration of machine learning models to predict student success or identify at-risk students based on the assessment data.
-
-Overall, while the project is feasible and has a moderate impact, focusing on more innovative elements and ensuring modular design will improve both its academic and practical value.
-
-P54 - Low-quality face recognition in wild API
-Impact Score: 4
-Feasibility Score: 3
 Scalability Score: 4
 
-Strengths:
-- The project addresses a significant and challenging problem in the field of computer vision, which can have substantial applications in security, surveillance, and personal identification.
-- The project has a strong potential to contribute to the development of more robust and versatile face recognition technologies, which is highly relevant in today's technological landscape.
+Strengths: 
+- The project addresses a clear need within an academic institution, with potential to improve educational outcomes through better understanding of student progress.
+- It requires skills in database management, web development, and data analytics, which are valuable and relevant to computer science students.
 
-Weaknesses:
-- The project might be too ambitious for a team of 6 students to complete within 10 weeks, especially considering the complexity of dealing with varying conditions in "the wild".
-- The proposal lacks specific details on the methodologies and approaches the students will use to tackle this problem, which can impact the project's feasibility.
+Weaknesses: 
+- The problem is somewhat niche, primarily benefiting the internal operations of the University, which limits its broader societal impact.
+- The scope of extracting data from sources like ECLIPS is vaguely described and could present significant integration challenges.
 
 Suggestions for Improvement:
-- Narrow down the scope of the project to focus on specific aspects such as handling one or two specific challenges (e.g., low light or occlusion) rather than all challenging conditions at once. This can make the project more manageable and achievable within the given timeframe.
-- Provide a detailed plan and outline of the methodologies and machine learning models that will be used. This includes specifying datasets, potential preprocessing techniques, and evaluation metrics to ensure a structured approach.
+- Broaden the potential impact by including features that could be adapted for use beyond UNSW, such as integration with commonly used learning management systems (LMS) like Moodle or Canvas.
+- Provide a detailed risk assessment and mitigation strategies for potential technical challenges, particularly related to data extraction and integration.
+- Consider adding features that allow for predictive analytics to give students and staff proactive insights, further increasing the tool's value.
 
-Overall, this project has a laudable goal and is poised to make a valuable impact in the field of computer vision. However, careful planning and scope management are crucial to ensure its feasibility and timely completion.
-
-P55 - Developing outstanding software interfaces and processes in medical research
+P54 - Low-quality face recognition in wild API
 Impact Score: 3
-Feasibility Score: 4
-Scalability Score: 3
-
-Strengths:
-- The project addresses the need for improved software interfaces and processes in medical research, which can enhance productivity and accuracy in a critical field.
-- The project scope allows for flexibility, enabling students to choose specific areas based on their skills and motivations, which can lead to more engaged and effective teamwork.
-
-Weaknesses:
-- The novelty of the problem is not particularly high; there are existing tools and systems designed to handle similar requirements in medical research labs. This limits the academic advancement impact.
-- The project lacks a clear, unifying goal and seems somewhat fragmented with multiple smaller projects, which can dilute the focus and impact.
-
-Suggestions for Improvement:
-- Refine and narrow the project scope to focus on a specific, well-defined problem within the medical research domain. For instance, concentrate on a particular aspect of data management or a unique interface requirement that is currently underserved.
-- Enhance the academic contribution by integrating more innovative technological components, such as advanced AI for predictive analytics in medical research or blockchain for secure data sharing, to set the project apart from existing solutions.
-
-By implementing these suggestions, the project can become more focused, impactful, and innovative, potentially increasing its overall scores in all evaluation criteria.
-
-P56 - AI-enhanced Moodle LMS Plugin for managing Entrustable Professional Activity (EPA) assessments in Faculty of Medicine and Health
-Impact Score: 4
 Feasibility Score: 2
 Scalability Score: 4
 
-Strengths: 
-- Addresses a significant and specific problem in the field of education, particularly in health sciences, where accurate assessment is critical.
-- Good potential for scalability, as the plugin could be adapted for various professional disciplines and integrated with multiple LMS platforms.
+Strengths:
+- The project addresses a notable gap in the field of computer vision, specifically low-quality face recognition in challenging environments, which could be valuable for security, surveillance, and law enforcement applications.
+- If successful, the API could have broad applications across various industries, such as social media, security, and public safety, enhancing its potential for scalability.
 
-Weaknesses: 
-- The feasibility of developing an AI-enabled assessment tool that can accurately detect and evaluate complex professional tasks (e.g., greeting patients, dispensing medicine) within a 10-week timeframe by a team of six students is highly questionable.
-- The project requirements necessitate a wide range of specialized knowledge areas (e.g., cybersecurity, AI, big data analytics, bioinformatics) that may be too ambitious for the given timeframe and student skill level.
-
-Suggestions for Improvement:
-- Narrow down the scope to a more feasible MVP (Minimum Viable Product), focusing initially on simpler EPA tasks that do not require complex AI functionalities. This can be expanded in future iterations.
-- Ensure a more detailed feasibility analysis, outlining specific tasks, timelines, and required skillsets, assigning responsibilities to team members accordingly. Consider utilizing existing AI modules or tools to reduce development time and complexity.
-
-P57 - Development of quantitative readout for traumatic brain injury (TBI) point of care (POC) device
-Impact Score: 4
-
-Feasibility Score: 3
-
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a significant medical need with the potential to impact patient outcomes positively by providing rapid TBI diagnostics.
-- Integration of computer science with bioinformatics and biomedical fields provides a multidisciplinary challenge, making it relevant for academic advancement and industry application.
-
-Weaknesses: 
-- The requirement for interdisciplinary knowledge (biological science, bioinformatics, electrochemical detection) may be challenging for a group of computer science students to acquire and integrate effectively within the 10-week timeframe.
-- The dependency on existing proprietary technology (potentiostat) and pending PCT release could introduce delays or limitations in the project execution, beyond the students' control.
+Weaknesses:
+- The problem is quite challenging due to the inherent difficulties in accurately recognizing faces in low-quality images, posing significant feasibility risks for a 10-week project timeframe.
+- The proposal lacks details on the specific methodologies and frameworks to be used, making it difficult to assess the technical approach's viability and ensuring that the problem is neither overcomplicated nor oversimplified.
 
 Suggestions for Improvement:
-- Narrow the scope of the project to focus more on the software development aspect and interface design, minimizing the need to delve deeply into biological detection systems.
-- Establish early and clear communication with GLIA Diagnostics to ensure all necessary information and resources are available promptly, thereby mitigating potential delays related to IP and proprietary technology access.
+- Narrow down the scope of the project to focus on specific types of low-quality conditions (e.g., poor lighting or occlusions) rather than all challenging environments. This would make the project more manageable within the given timeframe and improve its feasibility.
+- Incorporate a robust baseline comparison, like evaluating established face recognition algorithms on low-quality datasets. This would ensure that the new API offers a significant improvement rather than reinventing existing solutions.
 
-P58 - Virtual Specialist Veterinary Service Platform
-Impact Score: 4
 
+P55 - Developing outstanding software interfaces and processes in medical research
+Impact Score: 3
 Feasibility Score: 3
-
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant and timely issue by providing access to specialist veterinary care, especially for pet owners in remote areas. This has clear societal benefits and potential industry impact.
-- The integration of modern technologies such as AI for triage and IoT for post-procedure monitoring adds a novel dimension, which could lead to advancements in veterinary telemedicine.
+- The project addresses the needs of medical research labs, which is a crucial area for societal benefit. Improving interfaces and processes can enhance productivity and accuracy in research activities.
+- The project has good potential for future scaling as it involves developing systems that can be adapted and integrated with existing lab software.
 
 Weaknesses:
-- The project scope is quite broad, encompassing web development, AI, and IoT. Balancing these diverse elements within a 10-week timeframe could be challenging and may result in incomplete or unpolished outputs.
-- The requirement to integrate with multiple no-code tools such as Airtable, Calendly, and Typeform might divert focus from core development tasks and complicate the project unnecessarily.
+- The project scope seems somewhat vague and overcomplicated, especially with the inclusion of AI without clear justification or specific end-goals.
+- There may be compliance and privacy challenges that come with handling sensitive medical data, adding complexity to the project.
 
 Suggestions for Improvement:
-- Narrow down the scope of the project to focus on the most critical components first. For instance, prioritize the web-based consultation platform and basic integration of triage AI, leaving the IoT component for future expansion.
-- Ensure that resources and mentorship are allocated effectively to help students manage the complexity of integrating multiple technologies. This might include engaging external experts or utilizing specialized training sessions to speed up the learning curve for required tools and integrations.
+- Narrow down the scope to specific, well-defined sub-projects that do not necessarily rely on AI unless there is a clear, justified need for it. This would help focus effort and ensure feasibility within the 10-week timeframe.
+- Develop a clear and detailed project plan that includes timelines, specific deliverables, and designated responsibilities for team members to improve manageability and ensure a more polished final product.
+
+P56 - AI-enhanced Moodle LMS Plugin for managing Entrustable Professional Activity (EPA) assessments in Faculty of Medicine and Health
+Impact Score: 4 
+Feasibility Score: 2 
+Scalability Score: 3 
+
+Strengths: 
+- Addresses a significant gap in the current Moodle LMS by introducing specialized functionality for Entrustable Professional Activities (EPA) assessments, directly benefiting professional disciplines like Medicine and Pharmacy.
+- Integrates AI for motion and audio detection, which could revolutionize the way practical skills are assessed in professional education, potentially offering substantial academic and industry advancements.
+
+Weaknesses: 
+- The requirement for AI to detect various professional activities like greeting patients or checking scripts is highly complex and could be seen as an overcomplication of the project without initial validation of its necessity.
+- The project demands a wide range of advanced skills, including AI, Big Data Analytics, Web Application Development, and Cybersecurity, which is highly challenging for a team of 6 students to accomplish within a 10-week timeframe.
+
+Suggestions for Improvement:
+- Simplify the project scope by breaking it into phases. Initially focus on creating a basic EPA assessment plugin with essential functionalities and seamless integration with Moodle. The AI-enhanced feature could be developed as a future enhancement once the basic version is stabilized.
+- Conduct a feasibility study or proof of concept for the AI component before fully integrating it into the project. This can help to determine its necessity and viability, ensuring that the development effort is justified and manageable.
+
+P57 - Development of quantitative readout for traumatic brain injury (TBI) point of care (POC) device
+Impact Score: 5
+Feasibility Score: 3
+Scalability Score: 4
+
+Strengths:
+- The project tackles a significant and novel problem: improving the speed and accuracy of traumatic brain injury (TBI) diagnostics. The potential benefits to healthcare are substantial, particularly in emergency and point-of-care settings.
+- There is clear industry backing and relevance, as evidenced by collaboration with GLIA Diagnostics and CSIRO. The clinical validation and patent protection add further credibility and potential impact.
+
+Weaknesses:
+- The project is highly specialized and requires a diverse skill set, including biological science, coding, and bioinformatics. This may be challenging for a team of computer science students.
+- The project involves a lot of dependencies on external technologies and methodologies that the students have limited control over, potentially impacting the feasibility within a 10-week timeframe.
+
+Suggestions for Improvement:
+- Narrow the project's scope for the 10-week period. Instead of aiming for a full quantitative output, focus on achieving a reliable red/green light indicator for the presence of target miRNA. This would simplify the complexity and make the goal more achievable.
+- Provide more resources and preliminary training in biological detection systems and bioinformatics to the student team before the start of the project. This would help bridge the knowledge gap and improve the chances of successful implementation. 
+
+Overall, the project has high impact potential and good scalability, but the ambitious nature and specialized requirements may challenge its feasibility within the given timeframe.
+
+P58 - Virtual Specialist Veterinary Service Platform
+Impact Score: 4
+Feasibility Score: 2
+Scalability Score: 3
+
+Strengths: 
+- Addresses a significant problem of providing specialist veterinary care to remote areas, which can have a meaningful impact on pet health and well-being.
+- Integrates multiple advanced technological components (AI, IoT, web/mobile development), showcasing a broad range of computer science applications.
+
+Weaknesses: 
+- Highly ambitious scope across three different projects each with its own complexity, making it difficult to complete within a 10-week timeframe.
+- AI requirement for initial triage may be overcomplicated, especially without clear evidence that simpler rule-based systems would not suffice. 
+
+Suggestions for Improvement:
+- Narrow the scope of the project to focus on one or two core components (e.g., the web-based consultation platform and basic patient history gathering without AI), which would make it more feasible to deliver a polished product.
+- Provide more detailed guidance and resources to ensure that students are adequately prepared to tackle the technical challenges, especially in AI and IoT integration.
 
 P59 - IoT-based fleet management and telematics
 Impact Score: 4
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
 Strengths:
-- The project addresses a significant and growing problem in the transportation and logistics industry, focusing on optimization, cost reduction, and CO2 emission tracking, which are critical issues in today's context.
-- The use of various technologies such as IoT, big data analytics, and cloud computing highlights the project's potential for practical application and technical innovation.
+- The project addresses a significant issue in the transportation and logistics industry, focusing on optimizing processes, reducing costs, and managing carbon emissions.
+- Integration of IoT and telematics to create a real-time monitoring system for vehicle health and emissions is innovative and relevant to current industry demands.
 
 Weaknesses:
-- The technical complexity of integrating multiple systems and ensuring real-time data capture and processing might be a challenge for a team of students to complete in a 10-week timeframe.
-- The reliance on specific IoT platforms such as openremote.io might limit the flexibility and adaptability of the project, making it harder for students to switch to alternative solutions if issues arise.
+- The project may be overcomplicated by including technologies like Big Data Analytics, Cloud Computing, and comprehensive IoT integration without clearly justifying their necessity over simpler solutions.
+- The 10-week timeframe for developing such a multifaceted system might be overly ambitious for a team of 6 students, risking an incomplete or poorly polished project.
 
 Suggestions for Improvement:
-- Consider narrowing the project scope to ensure that the core functionalities (e.g., real-time GPS tracking, vehicle health monitoring) are robustly implemented and tested. This could improve feasibility by allowing students to focus on the most critical aspects first.
-- Provide a detailed timeline and distribution of tasks among team members, ensuring that each member's expertise is utilized efficiently. This could help in better managing time and resources and ensuring that all components of the project are completed satisfactorily. 
-
-Overall, while the project has high potential and significance, focusing on a more attainable subset of goals would likely increase the chances of success within the given timeframe.
+- Narrow the project scope to focus on a specific aspect of fleet management, such as developing the real-time GPS tracking system with basic telematics, before expanding to more complex features.
+- Establish clear milestones and time management strategies to ensure that each crucial component of the system is developed and tested within the limited timeframe, allowing for a more polished final product.
 
 P60 - Communication Accessibility Web App Prototype - MyCommsPro
 Impact Score: 4
-Feasibility Score: 3
+Feasibility Score: 4
 Scalability Score: 4
 
 Strengths: 
-- The project addresses a significant problem, aiming to improve communication accessibility for people with communication disabilities. This has notable societal benefits and potential impact on a wide range of professionals supporting these populations.
-- The project also has strong potential for scalability, as it can be expanded to include more features and support a larger user base across different institutions and types of care services.
+- Addresses a significant and novel problem related to communication disabilities, which can have a substantial societal impact.
+- Clear and detailed project requirements and scope, which can guide the development process effectively.
 
 Weaknesses: 
-- The academic contribution of the project might be seen as limited; while it has practical applications, similar solutions might already exist or be achievable with off-the-shelf tools, which could reduce its novelty from an academic perspective.
-- The timeline seems ambitious, particularly for a team of 6 students over 10 weeks. Developing a fully functional clickable prototype with the described features may require significant effort and may not be polished by the end of the project timeframe.
+- Potential complexity in integrating various features (e.g., photo import, editing tools, templates, sharing functionality) within a limited timeframe.
+- Dependence on existing iOS app prototype for cohesion may limit creative flexibility and require substantial alignment efforts.
 
 Suggestions for Improvement:
-- Focus more on a few core features initially to ensure a high-quality prototype rather than overextending to include every planned functionality. This will help ensure the deliverables are achievable and polished.
-- Consider integrating more advanced or innovative technical elements that could add to the academic value of the project. For instance, incorporating machine learning algorithms for automatic tagging and categorization of visual supports or exploring advanced data privacy measures could enhance the academic and practical significance of the project.
+- Prioritize and phase the development of features to ensure the core functionality is robust before adding additional features. This would improve feasibility and allow for focused testing and feedback.
+- Incorporate feedback loops at earlier stages to identify potential issues with user experience and interface design, perhaps through smaller-scale user testing or focus groups. This would enhance the quality and polish of the final prototype.
 
 P61 - Edpay App
-Impact Score: 3
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a clear need for an integrated platform to manage university-related payments, which can simplify administrative processes and offer convenience to students.
-- The scope includes modern and relevant technologies such as mobile app development, big data analytics, and cybersecurity, providing a comprehensive learning experience for the students.
-
-Weaknesses: 
-- The problem being addressed, while useful, is not particularly novel. Payment integration solutions exist and are being used in various sectors, and this project may not significantly advance academic knowledge.
-- The required integrations to multiple external systems (e.g., international payment providers, university ERP systems) can be highly complex and pose significant feasibility challenges for a 10-week timeframe. The need to comply with security standards adds another layer of difficulty.
-
-Suggestions for Improvement:
-- Narrow the scope of the project to focus on an initial prototype that handles a limited subset of payment methods and perhaps only one university system. This can make the project more feasible within the 10-week timeframe.
-- Include a detailed risk management plan that addresses potential challenges such as integration issues and security compliance. This can help ensure that the project remains on track and the final deliverable meets the minimum viable product (MVP) expectations.
-
-By focusing on these areas, the students can create a more manageable project that still provides valuable learning experiences and deliver a functional MVP.
-
-P62 - FunWattle: AI-powered digital reinforcement of kids' speech skills
 Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant problem by leveraging AI and gamification to help children with speech issues. This could have a clear and important impact on child development and education, making it valuable to society.
-- The project has a solid foundation, given that the startup has already won awards and has a web-based MVP being tested. This indicates initial validation and feasibility.
+- The project addresses a significant need in the education sector, particularly for international students who require multiple payment options.
+- Integration with various financial systems and payment gateways showcases a real-world application with the potential to improve efficiency and convenience in handling university-related payments.
 
 Weaknesses:
-- Developing Advanced Speech Recognition capabilities to a high degree of accuracy, particularly for nuanced differences such as "Rabbits" and "Wabbits," is highly challenging and might not be fully achievable within the given timeframe, especially by students.
-- Ensuring compliance with Australian Privacy Act 1988 and implementing robust data minimization, encryption, and role-based access control may require significant expertise and could be a bottleneck in the project's completion.
+- The project might be too ambitious for a 10-week timeframe, especially considering the required integrations with multiple third-party systems and ensuring cyber security.
+- There is a notable lack of information on how the project will handle the legal and regulatory aspects of dealing with financial transactions, which is crucial for such an application.
 
 Suggestions for Improvement:
-- Narrow the scope of the Advanced Speech Recognition feature. Focus initially on more achievable differentiation tasks, and stagger more complex recognitions into future iterations. This can make the goal more realistic within a 10-week period.
-- Enhance feasibility by modularizing tasks and using off-the-shelf components where applicable. For example, use existing speech recognition APIs for baseline functionality and focus student efforts on custom augmentations and gamification features.
-- Strengthen the project by incorporating more detailed risk management and contingency plans, particularly around technical uncertainties like speech recognition capabilities and privacy compliance. This will help manage expectations and keep the project on track. 
+- Narrow down the scope to focus on key features that can be realistically achieved within the given timeframe. For instance, prioritize basic payment functionalities and defer more complex integrations to a later phase.
+- Add a detailed risk management plan that addresses potential legal, regulatory, and technical challenges, including how you will manage data privacy and compliance with financial regulations.
 
-Overall, the project holds promise due to its societal impact and potential for future scalability, but the scope, feasibility, and compliance aspects need fine-tuning to be realistically achievable within the given constraints.
+
+P62 - FunWattle: AI-powered digital reinforcement of kids' speech skills
+Impact Score: 3
+
+Feasibility Score: 2
+
+Scalability Score: 4
+
+Strengths:
+- The project aims to address a meaningful issue: improving speech skills in children with speech difficulties. This can positively impact many families and children if effectively implemented.
+- The project has a clear client and potential user base, as evidenced by the startup's accolades and the current MVP being tested by parents and speech pathologists.
+
+Weaknesses:
+- The requirement to develop advanced speech recognition capabilities is highly ambitious and may be beyond the technical expertise and timeframe of a 10-week student project, especially given the need for differentiation in children's pronunciations.
+- The project scope appears broad and ambitious, requiring development in multiple complex areas: speech recognition, AI-generated adaptive learning paths, data security practices, and mobile app development. This is likely to be overcomplicated for a student project in the given timeframe.
+
+Suggestions for Improvement:
+- Narrow the scope of the project to focus on a more specific aspect. For example, students could focus on enhancing the existing speech recognition capabilities or developing a more basic version of the mobile app without advanced AI functionalities.
+- Ensure that there are clear, incremental goals and milestones. Breaking down the project into smaller, manageable tasks would help in tracking progress and adjusting scope as needed.
+
+The evaluation is balanced, recognizing the project's significant potential impact and scalability but also noting the substantial challenges that may hinder its feasibility.
 
 P63 - Enabling user-friendly access to an ML disease prediction tool
 Impact Score: 3
@@ -1110,74 +1102,71 @@ Feasibility Score: 4
 Scalability Score: 4
 
 Strengths:
-- The project addresses a significant need by making a complex ML tool more accessible to non-technical users, which can democratize the use of advanced machine learning techniques in health research.
-- Clearly defined technical requirements and a set goal make the project scope well understood and manageable.
+- The project has a clear real-world application, making a machine learning disease prediction tool accessible to non-technical users, which can have a moderate impact on the research community.
+- The project goals are well-defined, with specific functionalities such as drag-and-drop file upload and parameter tuning, making it easier for the team to focus their efforts.
 
 Weaknesses:
-- The problem being addressed, while useful, is not novel and doesn’t contribute to substantial academic advancement. Similar user-friendly interfaces for ML tools already exist.
-- Dependency on the CRANK-MS framework means that students are not developing a new algorithm but rather creating a wrapper interface. This could limit the learning experience of creating sophisticated backend algorithms.
+- The project is somewhat limited in scope as it focuses primarily on creating an interface for an existing tool rather than innovating or addressing new problems.
+- There is a reliance on existing frameworks and approaches (e.g., GridSearchCV and SHAP), which minimizes the novelty and complexity of the project, potentially making it less valuable from an academic perspective.
 
 Suggestions for Improvement:
-- Consider integrating some novel elements into the project, such as developing a more intuitive machine learning model selection process or automated hyperparameter tuning to push the envelope in both usability and innovation.
-- Ensure that the project includes comprehensive user testing phases with actual non-technical users to validate ease of use and utility, perhaps collaborating with a test group of researchers from another department.
-
+- Consider integrating additional, unique features that would significantly enhance the usability or functionality of the tool, such as integrating with other data sources or advanced visualization techniques.
+- Increase the project's novelty by exploring new machine learning techniques or improving the existing ML model's accuracy and interpretability, thereby adding more academic value.
 
 P64 - Quick Assist app prototype
 Impact Score: 4
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
 Strengths: 
-- The project addresses a significant and clear problem, improving emergency communication for non-English speakers and potentially saving lives.
-- There is strong community and institutional support, including collaboration with the South Western Sydney Local Health District and grassroots groups like "Stroke Watch."
+- The project addresses a significant problem with clear societal impact, particularly for non-English speakers in emergency situations. This is a pressing issue with real-world applications that can save lives.
+- There is a clear and existing demand for such a solution, given the documented difficulties faced by non-English speakers when accessing emergency services. This ensures that the project is tackling a relevant and important issue.
 
-Weaknesses:
-- The scope may be overly ambitious for a 10-week project, particularly requiring intermediate skills in LLM/chatbot development and integration with emergency services.
-- Dependency on understanding multiple languages might be challenging given the diversity of the student group’s language skills and the brief project timeline.
+Weaknesses: 
+- The project unnecessarily complicates itself by including features such as LLM/chatbot and automatic language detection without first rigorously proving the need for these technologies. Using AI without justification can detract from the project's feasibility.
+- The 10-week timeframe for developing a comprehensive prototype with multiple language support and integrating with emergency services seems overly ambitious, increasing the risk of an incomplete or unpolished product.
 
 Suggestions for Improvement:
-- Simplify the initial prototype's scope to focus on a proof-of-concept for one language (e.g., Vietnamese) before considering expansion to other languages.
-- Utilize off-the-shelf solutions for some components (like basic chatbot functions) and focus the project on integration, user interface, and specific healthcare needs to ensure it's feasible within the project timeframe.
+- Streamline the project scope to focus on essential and immediately impactful features first. Concentrate on creating a functional prototype that enables non-English speakers to connect with emergency services via a human interpreter, and leave the AI/LLM features for future iterations once the core functionality is validated.
+- Conduct a more detailed feasibility study to outline clear, manageable milestones within the 10-week period. Consider breaking down the project into smaller, more achievable tasks that each team can focus on, ensuring that a viable and demonstrable prototype is produced within the given timeframe. 
+
+Overall, while the project demonstrates significant potential impact, it must avoid unnecessary complexity and ensure a realistic execution plan to achieve its goals effectively.
 
 P65 - Changing Life Keep Your Balance: multilingual mental health literacy app
 Impact Score: 4
-
-Feasibility Score: 3
-
-Scalability Score: 4
-
-Strengths:
-- The project addresses a significant and relevant issue, particularly in the context of the ongoing mental health crisis exacerbated by the COVID-19 pandemic. The focus on CALD (Culturally and Linguistically Diverse) communities adds another layer of importance.
-- The project has a clear and defined goal of transforming an already award-winning program into a digital format, which could potentially increase its reach and effectiveness.
-
-Weaknesses:
-- The project scope, including the multilingual aspect and the requirement for both passive and interactive elements, is quite ambitious for a 10-week timeframe, even for a group of six students.
-- The requirement for integrating knowledge about mental health services and support groups adds complexity, and the necessity for bilingual capabilities could pose a significant barrier if not properly managed.
-
-Suggestions for Improvement:
-- Narrow the scope for the prototype: Instead of aiming to fully develop an app in 10 different languages, perhaps begin with implementing the app in just 2-3 languages. This will make the project more manageable and provide a clear path for scalability in future phases.
-- Allocate roles and specializations within the team to make better use of the diverse skill sets. For example, have specific members focus on the app's technical aspects, while others concentrate on content adaptation and user experience.
-
-By focusing on a more achievable prototype and dividing responsibilities effectively, the team can deliver a functional and potentially impactful product by the end of the 10-week period.
-
-P66 - AI for Language Learning
-Impact Score: 4
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths: 
-- The project addresses a significant problem in language learning, particularly addressing the "expressive" component of speaking and pronunciation, which can be costly and inconsistent when handled by human teachers.
-- The use of AI to provide automated feedback and gamification has clear and important implications for improving learning outcomes and making language learning more accessible and flexible.
+- The project addresses a significant and timely issue, particularly relevant to multicultural communities that have been disproportionately affected by mental health issues due to the COVID-19 pandemic.
+- The existing success of the "Changing Life Keep Your Balance" program and its multilingual approach provide a solid foundational content base, increasing the project's likelihood of positive reception and real-world impact.
 
-Weaknesses: 
-- The requirement for one student to have knowledge of Mandarin could limit the team's ability to effectively contribute equally, posing a slight risk to team dynamics and overall feasibility.
-- Developing an AI that can accurately assess pronunciation, grammar, and fluency in Mandarin, a tonal language, within a 10-week timeframe is highly ambitious and may be challenging, resulting in an incomplete or unpolished project.
+Weaknesses:
+- The project scope might be overly ambitious for a 10-week timeline, particularly given the range of languages and the integration of both passive and interactive elements.
+- The requirement for bilingual capabilities in multiple languages may pose a significant challenge unless the team already possesses or can easily acquire translators or language experts.
 
 Suggestions for Improvement:
-- Break down the project into more manageable phases, starting with the implementation of basic functionalities like simple pronunciation feedback, and gradually working up to more complex features such as syntax correction and fluency scoring. This approach can help ensure achievable milestones within the given timeframe.
-- Consider simplifying the initial scope by focusing on one specific aspect of language learning, such as pronunciation or vocabulary, before expanding to cover all facets of language acquisition. This could reduce the risk of the project becoming too unwieldy and unmanageable within the time constraints.
+- Narrow the initial scope by focusing on developing a fully-functional prototype in one or two languages first, allowing more time to ensure the app's core features and user experience are well-designed and polished.
+- Consider leveraging existing translation frameworks and machine learning models to expedite the multilingual aspect of the project, though this should be done cautiously to ensure the translations are culturally and contextually appropriate. 
 
-Overall, the project proposal is commendable for its impact and scalability potential, but it requires careful consideration of feasibility and methodical planning to ensure successful execution.
+By focusing on a more targeted approach and leveraging existing technologies where applicable, the project can become more manageable while still maintaining its significant potential impact.
+
+P66 - AI for Language Learning
+Impact Score: 3
+Feasibility Score: 3
+Scalability Score: 3
+
+Strengths:
+- The project addresses a relevant issue in language learning, which is a growing area of interest both educationally and commercially.
+- If successfully implemented, the AI language partner can significantly reduce the cost of learning and provide more flexible and consistent language practice for students.
+
+Weaknesses: 
+- The requirement for AI is not rigorously justified. It is not clear whether simpler technological solutions could achieve the same objectives.
+- The project scope is highly ambitious, with multiple complex components (speech recognition, NLP for grammatical and syntactical correction, real-time dialogue generation, and gamification) expected to be integrated within a short timeframe.
+
+Suggestions for Improvement:
+- Limit the scope to a more manageable subset of features. For instance, focus primarily on developing an AI that can accurately detect and correct pronunciation and tones in Mandarin. This would still provide significant value while being more feasible to achieve within the given timeframe.
+- Conduct a detailed requirements analysis and feasibility study early in the project to ensure that the chosen technological solutions are the most appropriate and to avoid overcomplicating the project unnecessarily. This analysis should include exploring existing off-the-shelf solutions and determining whether a custom AI solution is truly required.
 
 P67 - Stress tracking app
 Impact Score: 3
@@ -1185,125 +1174,120 @@ Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a relevant and increasingly significant issue, mental health and stress management, which can have a broad societal impact.
-- The use of wearable data and AI/ML algorithms offers a novel approach to stress tracking, combining modern technologies meaningfully.
+- The project addresses a relevant and timely issue, given the increasing focus on mental health and well-being.
+- The app has the potential to benefit a broad audience, including individuals seeking to manage stress more effectively and healthcare providers.
 
 Weaknesses:
-- The project lacks clear differentiation from existing stress management apps, potentially reducing its novelty and impact, especially from an academic perspective.
-- The requirement to integrate and harmonize data from multiple wearable devices within a 10-week timeframe is highly challenging and may be overly ambitious for a student project.
+- The proposal lacks clarity on the specific algorithms and data inputs required to accurately measure stress, leaving it to the team to determine feasibility.
+- The need to integrate data from various wearable devices adds a layer of complexity, potentially making it challenging to standardize data collection and interpretation within the 10-week timeframe.
 
 Suggestions for Improvement:
-- Narrow the scope to a single wearable device initially to ensure the project is feasible within the given timeframe. This will help the team focus on developing a robust prototype and deliver a polished, complete product.
-- Include a comprehensive review of existing stress management apps and clearly articulate how this project offers a unique contribution or improvement over existing solutions. This will address potential academic originality concerns and highlight the project's innovation.
-
+- Provide a more detailed preliminary analysis of existing methods for stress tracking, including both strengths and limitations, to guide the development process.
+- Narrow the scope initially to focus on one type of wearable device to ensure a proof of concept, then plan for expansion to other devices. This would make the project more manageable within the given timeframe while still allowing for future scalability.
 
 P68 - Transition Dashboard - Custom AI
 Impact Score: 3
-
-Feasibility Score: 3
-
-Scalability Score: 4
-
-Strengths:
-- The project addresses a relevant issue for international students, potentially easing their transition process which can have a significant impact in a local context.
-- The dual focus on a real-time updating dashboard and a custom AI for onboarding provides a good mix of practical application and innovation, which could be highly engaging and educational for the students.
-
-Weaknesses:
-- The project's description indicates that the current prototype uses no-code tools like Bubble. An off-the-shelf solution may exist, which could make the custom development aspect less impactful from an academic advancement viewpoint.
-- The timeframe of 10 weeks, especially with only 8 hours of commitment per week per student, appears very tight for such a comprehensive project. Achieving a fully functional and polished product seems challenging.
-
-Suggestions for Improvement:
-- Narrow down the scope to either the dashboard or the AI component. This would allow deeper focus and elevate the chance of producing a high-quality deliverable. A more focused project might also advance academic understanding better.
-- Leverage existing tools and libraries to accelerate development and ensure a stronger final product. This can include using established AI frameworks and visualization libraries, which would also be a valuable learning experience for the students.
-
-P70 - Development of a Windows Client Dashboard Program for Real-time Monitoring of General Practitioners Daily Workload Statistics and Basic Compliance
-Impact Score: 4
-Feasibility Score: 3
+Feasibility Score: 2
 Scalability Score: 3
 
-Strengths:
-- The project addresses a significant issue in the healthcare sector, specifically the management and compliance monitoring of General Practitioners' daily workloads, which could enhance operational efficiency and compliance with Medicare regulations.
-- The use of SQL and client/server application development are well within the capabilities of computer science students and provide a valuable learning experience in widely applicable skills.
+Strengths: 
+- The project addresses a legitimate need for international students, providing a clearer transition plan post-acceptance.
+- It offers a mix of practical development (dashboard) and advanced concepts (custom AI) that can challenge the students and enhance their skill sets.
 
-Weaknesses:
-- The project relies on accessing and understanding the BP schema for tables and views, which is not publicly accessible. This dependency on third-party support can introduce delays and complications.
-- The project’s scope may be too ambitious for a 10-week timeframe, given the requirement for real-time data processing and frequent updates, which may demand a robust and well-optimized implementation.
+Weaknesses: 
+- The project appears overcomplicated with the addition of a custom AI without demonstrating the necessity of AI over simpler, rule-based automation.
+- Feasibility is questionable due to the broad scope encompassing data analytics, visualizations, and AI within a limited timeframe of 10 weeks.
 
 Suggestions for Improvement:
-- Narrow the project scope to focus on a specific subset of features initially, such as real-time appointment tracking or Medicare rule compliance monitoring. This will allow the team to deliver a polished and functional product within the given timeframe.
-- Enhance collaboration with BP software support early in the project to ensure access to the necessary database schema and potentially seek mentorship or additional resources that can aid in understanding and utilizing the BP software framework more effectively.
+- Simplify the project by first developing a functional dashboard and basic bot using rule-based automation. This will ensure a comprehensible and doable scope within the given timeline, before attempting more complex AI integrations.
+- Conduct a thorough initial research phase to evaluate existing solutions and determine whether all of the proposed functionalities are truly necessary for the stated goals. This might illuminate areas that can be streamlined for better feasibility.
 
-Overall, while the project is impactful and feasible to a certain degree, addressing the highlighted weaknesses and refining the scope could make it more manageable and scalable within the given constraints.
+P70 - Development of a Windows Client Dashboard Program for Real-time Monitoring of General Practitioners Daily Workload Statistics and Basic Compliance
+Impact Score: 3
+Feasibility Score: 4
+Scalability Score: 3
+
+Strengths: 
+- The project addresses a tangible problem for General Practitioners, aiming to improve workload management and compliance monitoring.
+- The use of SQL and client/server application development provides a strong learning opportunity for students in practical and widely-used technologies.
+
+Weaknesses: 
+- The problem, while practical, does not have a transformative societal or academic impact, limiting it to moderate significance primarily for specific users within the healthcare domain.
+- Potential complexity in understanding the Best Practice schema and limitations in data access may pose challenges for students.
+
+Suggestions for Improvement:
+- Increase the impact by integrating features that could benefit a wider range of healthcare professionals or similar industries, expanding its application and significance.
+- Ensure detailed documentation and scheduled support from Best Practice software developers to facilitate understanding of the database schema, reducing potential bottlenecks in data query accuracy and application performance improvement. 
+
+Overall, the project holds practical relevance and is feasible for students, but its impact is limited and poses moderate scalability. Engaging with a bigger audience and providing comprehensive technical support can enhance the project's overall effectiveness.
 
 P71 - Providing Web-Based Access for General Practitioners to Manage Appointments in Best Practice Medical Software
+Impact Score: 3
+Feasibility Score: 4
+Scalability Score: 4
+
+Strengths: 
+- The project addresses a practical problem in the medical field, potentially benefiting General Practitioners by making appointment management more convenient.
+- The scope is well-defined with clear requirements and attainable objectives, aiding in a structured development approach.
+
+Weaknesses: 
+- The problem, while notable, is not highly novel and does not indicate a transformative societal or industry impact. Extensions of current functionalities are being developed rather than entirely new solutions.
+- Lack of publicly available table and view schemas for Best Practice software could pose significant challenges during development, risking delays or incomplete features.
+
+Suggestions for Improvement:
+- Strengthen the project's impact by including additional features that could provide a more holistic solution for General Practitioners. For instance, integrating telehealth functionalities or automated notifications could make the solution more impactful.
+- Establish a contingency plan for obtaining the necessary database schema information. This could include direct agreements with BP support or developing partnerships with practitioners who use the software and are willing to provide anonymized data for testing.
+
+Overall, the project has a clear sense of purpose and is achievable within the given timeframe. Enhancing its features and guaranteeing access to necessary resources can elevate its potential further.
+
+P72 - Crowd-Sourced Online Data Annotation Platform
 Impact Score: 3
 Feasibility Score: 3
 Scalability Score: 4
 
 Strengths:
-- The project addresses a real-world problem: enabling general practitioners to easily manage appointments remotely through web-based access.
-- Flexibility in choosing development tools and frameworks allows the team to leverage their specific strengths and knowledge.
+- The project addresses a well-acknowledged need in the data-driven industry for efficient and cost-effective data annotation.
+- It incorporates a wide range of skills and technologies (web development, machine learning, SQL/NoSQL databases), providing a comprehensive learning experience for the students.
 
 Weaknesses:
-- The problem might not be novel in an academic research context; similar solutions could potentially exist or be developed with more detailed research.
-- Extracting and understanding the Best Practice medical software's database schema might present significant challenges and require more time than anticipated.
+- The requirement for a basic machine learning backend to provide annotation suggestions could overcomplicate the project, especially without rigorous proof that AI is necessary.
+- The time frame of 10 weeks may be too tight to develop a mature and reliable payment system that correctly compensates freelancers based on task complexity and volume.
 
 Suggestions for Improvement:
-- Conduct a thorough literature review and market analysis to understand existing solutions and ensure the project offers distinct advantages or improvements. This could help in refining the project’s objectives or highlighting innovative aspects.
-- Break down the project into smaller, more manageable milestones with clear timelines. This will help in maintaining focus, managing time effectively, and ensuring that each team member can contribute meaningfully to the project.
-
-P72 - Crowd-Sourced Online Data Annotation Platform
-Impact Score: 4
-Feasibility Score: 3
-Scalability Score: 4
-
-Strengths: 
-- The project addresses a significant problem in the machine learning domain, namely, the need for high-quality annotated data, which has substantial implications for both industry and academia.
-- The platform has well-defined features like user management, task creation, real-time progress tracking, and a payment system, making it comprehensive and practical.
-
-Weaknesses: 
-- The project may face considerable challenges in implementing the machine learning backend for annotation suggestions within the 10-week timeframe, given the complexity and required expertise.
-- Ensuring data security and user privacy can be a significant hurdle, especially with handling sensitive datasets and payment information.
-
-Suggestions for Improvement:
-- Narrow the project scope by focusing primarily on developing the core features of the platform (user accounts, task creation, and basic annotation tools) before tackling more advanced functionalities like machine learning backend suggestions.
-- Implement a phased approach to development, prioritizing essential features first and planning for additional functionalities (like integration with third-party tools) as future enhancements. This management can help ensure deliverables are met within the given timeframe.
+- Consider simplifying the project scope by initially focusing on building a robust web platform with basic annotation and user management features, and propose the ML-backed annotation suggestions as a future enhancement.
+- Ensure detailed planning and distribution of tasks within the team to cover critical areas like frontend development, backend development, database management, and testing, to maximize productivity and project completion within the stipulated time frame.
 
 P73 - Analytics of Web Application
 Impact Score: 3
 Feasibility Score: 3
-Scalability Score: 4
+Scalability Score: 3
 
-Strengths: 
-- The project addresses the increasing need for data analytics within web applications, which holds significant value for businesses looking to improve their operations.
-- The project incorporates comprehensive skills and technologies, which will offer students a broad learning experience in web development, data analytics, and UI/UX design.
+Strengths:
+- The project addresses a relevant and moderately impactful problem in web application analytics, which can aid businesses in improving their operations.
+- Provides an opportunity for students to gain experience in a variety of technical skills, including web development, security, and data analytics, which are highly relevant to the industry.
 
-Weaknesses: 
-- The problem being addressed, while relevant, is not particularly novel. Many off-the-shelf solutions already exist for web analytics, making the academic contribution less significant.
-- The project scope is quite broad, covering everything from user account management to comprehensive data analytics and system configuration. This could be challenging to complete in the given 10-week timeframe, especially for a diverse team of 6 students.
+Weaknesses:
+- The problem being addressed, while useful, is not exceptionally novel or transformative. Several existing tools already provide similar functionalities, thus reducing the novelty and potential benefit.
+- The project scope is quite broad and ambitious given the 10-week timeframe, potentially leading to a lack of depth in certain areas or an incomplete final product. The inclusion of video processing is also ambiguous and could complicate the project unnecessarily.
 
 Suggestions for Improvement:
-- Narrow the focus of the project to a specific aspect of web analytics, such as user behavior tracking or system reliability metrics. This would make the project more feasible and enable the team to produce a polished, high-quality product within the timeframe.
-- Consider adding an element of innovation, such as machine learning algorithms to predict user behavior or integrating real-time analytics with actionable insights. This could increase the academic impact and novelty of the project.
+- Narrow the scope of the project to focus on a few key functionalities rather than trying to cover a wide range. For example, prioritize essential features like user account management, basic data analytics, and data visualization while potentially omitting more complex aspects like video processing.
+- Clearly define what differentiates this analytics tool from existing solutions. This could be achieved by identifying unique features or performance enhancements, thereby increasing the project's impact and originality.
 
 P76 - Web Tool for Evaluating Software Reliability
 Impact Score: 3
+Feasibility Score: 2
+Scalability Score: 3
 
-Feasibility Score: 3
+Strengths: 
+- The project addresses a relevant topic in software engineering: evaluating software reliability, which is important for maintaining quality standards in software development.
+- The project covers a wide range of important software development skills including web development, API design, and the implementation of secure coding practices, which can be highly educational for the students involved.
 
-Scalability Score: 4
-
-Strengths:
-- The project targets a well-defined problem within software engineering, specifically focusing on the evaluation of software reliability, which is a crucial aspect for both academic and industry applications.
-- The proposal includes a comprehensive list of requirements and skills needed, which helps in scoping and preparing for the project in a structured manner.
-
-Weaknesses:
-- The novelty of the project is limited as there are existing tools and platforms that perform similar functions, such as SonarQube or various Continuous Integration/Continuous Deployment (CI/CD) tools with reliability testing features.
-- The scope is quite broad for a 10-week timeframe, particularly given that the project involves developing a robust and scalable web application with multiple features including user management, system configuration, analysis, and reporting.
+Weaknesses: 
+- The project appears to be overcomplicated by integrating multiple complex requirements such as AI-based evaluation of software artefacts without providing rigorous justification for the need for AI.
+- Given the wide range of technologies and requirements, it may be highly challenging for a team of 6 students to achieve a robust, secure, and fully functional web tool within a 10-week timeframe, especially with the high expectations for documentation and testing.
 
 Suggestions for Improvement:
-- Narrow down the project scope to focus on a specific aspect of software reliability evaluation, perhaps introducing a novel analytical method or a unique feature that differentiates it from existing tools.
-- Include a detailed project timeline and breakdown of tasks. Assign specific roles and responsibilities to team members to ensure that all necessary skills are covered and to make the project more manageable within the 10-week timeframe.
-
-This evaluation provides a balanced but stringent assessment, highlighting the notable strengths while pointing out critical areas for improvement in both novelty and feasibility.
+- Narrow down the scope of the project to ensure it is feasible within the given timeframe. For example, instead of including AI right away, the project could initially focus on a rule-based approach for evaluating software reliability and plan to incorporate AI in future iterations.
+- Provide a more detailed and phase-wise project plan that clearly outlines achievable milestones and the distribution of tasks among team members to improve focus and manage expectations within the project duration.
 
