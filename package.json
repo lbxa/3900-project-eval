@@ -1,0 +1,16 @@
+{
+  "name": "scrape",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "openai": "^4.61.0",
+    "pdfjs-dist": "^4.6.82",
+    "puppeteer": "^23.3.0"
+  }
+}
