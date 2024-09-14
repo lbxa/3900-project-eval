@@ -6,7 +6,7 @@ function convertToCsv(data: Evaluation[]) {
   const header = ['ID', 'Name', 'Impact', 'Feasibility', 'Scalability', 'Overall'];
   const rows = data.map(e => [
     e.projectId,
-    e.projectName,
+    e.projectName.replace(/,/g, ''), // commas in strings break the concept of a csv
     e.impactScore,
     e.feasibilityScore,
     e.scalabilityScore,
