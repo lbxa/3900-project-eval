@@ -72,6 +72,7 @@ Ensure your evaluation is balanced but critical, considering both the positive a
 
   const content = response.choices[0].message?.content;
 
+  // record markdown summary of the llm results
   if (content) {
     const outputFilePath = path.join(process.cwd(), 'PROJECTS.md');
     fs.appendFileSync(outputFilePath, [project.title, content].join("\n") + '\n\n', 'utf-8');
@@ -109,7 +110,7 @@ export async function llmEval() {
   fs.writeFileSync(path.join(process.cwd(), 'PROJECTS.md'), "")
 
   const evaluations: Evaluation[] = [];
-  for (const project of [projects[0], projects[1]]) {
+  for (const project of projects) {
     const projectId = project.title.substring(0, 3);
     if (isValidProjectIdentifier(projectId)) {
       const pdfText = await extractPDFText(path.resolve(__dirname, "pdfs"), projectId)
