@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import fs from "fs";
 import path from "path";
 import { sleep } from 'bun';
 import projects from "./projects.json"
@@ -21,6 +22,9 @@ const cookies = [
 const downloadPDF = async (title: string, url: string) => {
   try {
     const downloadPath = path.resolve(__dirname, "pdfs"); 
+    if (!fs.existsSync(downloadPath)) {
+      fs.mkdirSync(downloadPath, { recursive: true });
+    }
 
     const browser = await puppeteer.launch({
       headless: false,

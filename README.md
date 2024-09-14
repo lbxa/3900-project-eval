@@ -9,5 +9,5 @@ The secret sauce:
       2. Copy-paste your cookies from unsw-my.sharepoint.com into `.env` file to bypass the UNSW login wall
       3. `bun scraper.ts` and all the pdf files will start downloading
 3. Run GPT evaluation of projects
-      1. `bun gpt.ts`
+      1. `bun main.ts`
       2. Proompt engineer the eval criterion to suit your group's needs and ambitions

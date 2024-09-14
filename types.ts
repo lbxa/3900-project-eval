@@ -6,7 +6,6 @@ export const isValidProjectIdentifier = (projectId: string): projectId is Projec
           Number.isInteger(Number(projectId[2]))
 }
 
-
 export interface Project {
   id: ProjectIdentifier;
   title: string;
@@ -15,6 +14,7 @@ export interface Project {
 
 export interface Evaluation {
   projectId: string;
+  projectName: string;
   impactScore: number;
   feasibilityScore: number;
   scalabilityScore: number;
